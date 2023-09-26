@@ -13,11 +13,21 @@ const routes = {
   '/awards': Awards,
   '/contact': Contact,
 }
+const map = {
+  '/': 'Home',
+  '/research': 'Research',
+  '/teaching': 'Teaching',
+  '/awards': 'Awards',
+  '/contact': 'Contact',
+}
 
 const currentPath = ref(window.location.hash)
 
 window.addEventListener('hashchange', () => {
+  document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="none";
   currentPath.value = window.location.hash
+  console.log(document.getElementById(map[currentPath.value.slice(1) || '/']))
+  document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
 })
 const currentView = computed(() => {
   return routes[currentPath.value.slice(1) || '/'] || NotFound
@@ -37,12 +47,12 @@ const currentView = computed(() => {
             <h1>Jacob Thomas</h1>
           </div>
           <div class = "links">
-            <a href="#/">Home</a>
-            <a href="#/research">Research</a>
-            <a href="#/teaching">Teaching</a>
-            <a href="#/awards">Awards</a>
-            <a href="#/contact">Contact</a>
-            <a href="../public/CV-Thomas.pdf">CV</a>
+            <a id="Home" href="#/">Home</a>
+            <a id="Research" href="#/research">Research</a>
+            <a id="Teaching" href="#/teaching">Teaching</a>
+            <a id="Awards" href="#/awards">Awards</a>
+            <a id="Contact" href="#/contact">Contact</a>
+            <a id="CV" href="../public/CV-Thomas.pdf">CV</a>
         </div>
       </div>
     </div>
@@ -53,6 +63,30 @@ const currentView = computed(() => {
 </template>
 
 <style scoped>
+  .links > a{
+    padding: 0 20px;
+    font-size: large;
+    color:white;
+    text-decoration: none;
+    position: relative;
+  }
+  .links > a::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    border-radius: 5px;
+    background-color: white;
+    bottom: 0;
+    left: 0;
+    transform-origin: right;
+    transform: scaleX(0);
+    transition: transform .3s ease-in-out;
+  }
+  .links > a:hover::before{
+    transform-origin: left;
+    transform: scaleX(1);
+  }
   .wrapper {
     margin-left:auto;
     margin-right:auto;
@@ -81,10 +115,5 @@ const currentView = computed(() => {
     justify-content: center;
     display: flex;
   }
-  .links > a {
-    color: white;
-    padding: 0 20px;
-    text-decoration: none;
-    font-size: large;
-  }
+  
 </style>
