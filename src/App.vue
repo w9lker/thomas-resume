@@ -27,11 +27,12 @@ const currentView = computed(() => {
 
 <template>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   </head>
   <body>
     <div class="nav-menu">
-      <div class="flex-container">
+      <div class="nav-menu-wrapper wrapper flex-container">
           <div class = "name">
             <h1>Jacob Thomas</h1>
           </div>
@@ -44,13 +45,20 @@ const currentView = computed(() => {
         </div>
       </div>
     </div>
-    <div class="view">
+    <div class="view wrapper">
       <component :is="currentView" />
     </div>
   </body>
 </template>
 
 <style scoped>
+  .wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 1200px;
+    padding-right: 10px; 
+    padding-left:  10px;
+  }
   .nav-menu {
     left: 0;
     right: 0;
@@ -59,7 +67,6 @@ const currentView = computed(() => {
     background-color: black;
     color: white;
     margin: 0;
-    padding: 0 20px;
   }
   .flex-container {
     justify-content: space-between;

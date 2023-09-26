@@ -3,7 +3,7 @@
     </head>
     <body>
         <div class="about-me">
-            <img src="../assets/volunteer_work.png" alt="Thomas">
+            <img src="../assets/attire.png" alt="Thomas">
             <div class="about-me-text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
@@ -29,7 +29,7 @@
 </template>
 <style scoped>
     .about-me{
-        padding: 70px 20px;
+        padding: 50px 0px;
     }
     .about-me-text{
         padding: 0px 30px;
