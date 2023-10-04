@@ -23,6 +23,9 @@ const map = {
 
 const currentPath = ref(window.location.hash)
 
+window.addEventListener("load", (event) => {
+  document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
+});
 window.addEventListener('hashchange', () => {
   document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="none";
   currentPath.value = window.location.hash
@@ -56,9 +59,7 @@ const currentView = computed(() => {
         </div>
       </div>
     </div>
-    <div class="view wrapper">
       <component :is="currentView" />
-    </div>
   </body>
 </template>
 
