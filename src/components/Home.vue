@@ -2,8 +2,34 @@
     <head>
     </head>
     <body>
-        <div class="images">
-            
+        <div class="home-intro-images">
+            <div id="carouselExample" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="image-flexbox">
+                            <img src="../assets/Picture1.jpg" class="" alt="..." height="500px" width="300px">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/Picture2.jpg" class="" alt="...">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/volunteer_work.png" class="" alt="...">
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
         </div>
         <div class="wrapper">
             <div class="about-me">
@@ -77,6 +103,19 @@
     </body>
 </template>
 <style scoped>
+    .image-flexbox{
+        height:1200px;
+        display:flex;
+        justify-content: center;
+        align-items:center;
+    }
+    #carouselExample{
+        height:1200px;
+        background-color: rgb(75, 75, 75);
+    }
+    .carousel-item > img{
+        max-height:1000px;
+    }
     .flex-container {
     justify-content: center;
     display: flex;

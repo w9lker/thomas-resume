@@ -22,9 +22,21 @@ const map = {
 }
 
 const currentPath = ref(window.location.hash)
+var navbar = null;
+
+window.onscroll = () => {
+    if (window.scrollY > 100) {
+        navbar.classList.add('nav-active');
+    } else {
+        navbar.classList.remove('nav-active');
+    }
+};
 
 window.addEventListener("load", (event) => {
   document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
+  console.log(document.getElementById("CV"));
+  navbar = document.getElementById("nav");
+  console.log(navbar)
 });
 window.addEventListener('hashchange', () => {
   document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="none";
@@ -41,10 +53,9 @@ const currentView = computed(() => {
 <template>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   </head>
   <body>
-    <div class="nav-menu">
+    <div id="nav" class="nav-menu-fixed">
       <div class="nav-menu-wrapper wrapper flex-container">
           <div class = "name">
             <h1>Jacob Thomas</h1>
@@ -59,11 +70,16 @@ const currentView = computed(() => {
         </div>
       </div>
     </div>
+    <div class="contents">
       <component :is="currentView" />
+    </div>
   </body>
 </template>
 
 <style scoped>
+.nav-active{
+  background-color:rgb(75, 75, 75) !important;
+}
   .links > a{
     padding: 0 20px;
     font-size: large;
@@ -95,12 +111,14 @@ const currentView = computed(() => {
     padding-right: 10px; 
     padding-left:  10px;
   }
-  .nav-menu {
+  .nav-menu-fixed {
+    z-index:10;
+    padding: 10px 0px;
     left: 0;
     right: 0;
     position: sticky;
     top:0;
-    background-color: black;
+    background-color: #138275;
     color: white;
     margin: 0;
   }
