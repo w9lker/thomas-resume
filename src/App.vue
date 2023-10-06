@@ -5,6 +5,7 @@ import Research from './components/Research.vue'
 import Teaching from './components/Teaching.vue'
 import Awards from './components/Awards.vue'
 import Contact from './components/Contact.vue'
+import AboutMe from './components/AboutMe.vue'
 
 const routes = {
   '/': Home,
@@ -12,6 +13,7 @@ const routes = {
   '/teaching': Teaching,
   '/awards': Awards,
   '/contact': Contact,
+  '/aboutme':AboutMe,
 }
 const map = {
   '/': 'Home',
@@ -19,6 +21,7 @@ const map = {
   '/teaching': 'Teaching',
   '/awards': 'Awards',
   '/contact': 'Contact',
+  '/aboutme':'AboutMe',
 }
 
 const currentPath = ref(window.location.hash)
@@ -62,6 +65,7 @@ const currentView = computed(() => {
           </div>
           <div class = "links">
             <a id="Home" href="#/">Home</a>
+            <a id="AboutMe" href="#/aboutme">About Me</a>
             <a id="Research" href="#/research">Research</a>
             <a id="Teaching" href="#/teaching">Teaching</a>
             <a id="Awards" href="#/awards">Awards</a>

@@ -100,9 +100,144 @@
                 </div>
             </div>
         </div>
+        <div class="research-listings">
+            <div class="research-listing">
+                <div class="research-listing-title">
+                    <div class="wrapper">
+                        <h2>Research About Might-Have-Been-Immigrants or Potential Immigrants</h2>
+                    </div>
+                </div>
+                <div class="research-listing-content">
+                    <div class="wrapper">
+                        <h5>Book manuscript:</h5>
+                        Thomas, Jacob. Denial, Deterrence, and Disenchantment: Why Many Never Immigrate. Book manuscript revised
+                        and resubmitted in Cambridge University Press and under review at Oxford University Press and Stanford University Press. 
+
+                        <h5>Diagram of my book:</h5>
+
+                        <h5>Articles:</h5>
+                        Thomas, Jacob. “What Ties Individuals to a Society?: How Immobility-Mobility Capital Stratifies 
+                        Legal Movement from China to the United States.” Revised and resubmitted to American Journal of Sociology. <br/>
+
+                        Thomas, Jacob. “How Families Prevent Migration.” Under review in International Migration Review. <br/>
+
+                        Thomas, Jacob. Forthcoming. “Disenchanted With the Immigrant Dream: The Sociological Formation of 
+                        Ex-Immigrant Subjectivity.” European Journal of Sociology.
+                    </div>
+                </div>
+            </div>
+            <div class="research-listing">
+                <div class="research-listing-title">
+                    <div class="wrapper">
+                        <h2>Comparative Research On the Impact of Migration Policies On International Migration and Mobility</h2>
+                    </div>
+                </div>
+                <div class="research-listing-content">
+                    <div class="wrapper">
+                        Thomas, Jacob. 2021. “From local control to remote control: an excavation of international mobility constraints.” Theory and Society 50(1): 33-64. <br/>
+
+                        Thomas, Jacob. 2023. “Bureaucratic and Organizational Amenability to Racial Diversification: How Points Systems 
+                        Replaced White-Only Immigration Policies.” International Journal of Sociology 53(2): 103-131. <br/>
+
+                        Thomas, Jacob. 2020. “When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
+                        Travel Opportunities.” International Migration 58(2): 80-97. <br/>
+
+                        Thomas, Jacob. 2019. “Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
+                        Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?” Southern California 
+                        Interdisciplinary Law Journal 29: 619-636. <br/>
+
+                        Thomas, Jacob. “Why a Targeted Travel Ban Mostly Reduced Visitors from Non-Targeted Countries: 
+                        Heterogeneity in Unintended Consequences Across Visitor Origin and Stage of Policy Formation.” Under review
+                        in Policy Studies Journal. <br/>
+
+                        Thomas, Jacob. “What Types of Famous Political Dissidents Succeed in Emigrating From Autocratic States?: 
+                        An Individual-Level Analysis of Emigration Control in the People’s Republic of China.” Under review in 
+                        European Political Science Review. <br/>
+
+                        Thomas, Jacob. “Mathematically Modeling How Bureaucrat-Civilian Interactions In Decision-making of Visa Application
+                        and Approval.” Under review in Journal of Mathematical Sociology. <br/>
+
+                        Thomas, Jacob and Peng Huang. “Affinity and Inequality in the Global Structure of the Visa-Free Mobility
+                        Network.” Manuscript in preparation to be submitted to American Sociological Review <br/>
+
+                        On-going General Research Fund Project ($78,600 USD): "What Distinguishes Emigrants From Hong Kong and 
+                        Those in Hong Kong That Merely 'Want' to Migrate"<br/>
+                    </div>
+                </div>
+            </div>
+            <div class="research-listing">
+                <div class="research-listing-title">
+                    <div class="wrapper">
+                        <h2>Communication and Media Representations of Migrants</h2>
+                    </div>
+                </div>
+                <div class="research-listing-content">
+                    <div class="wrapper">
+                        Thomas, Jacob. “Visual Art as a Channel and Embodiment of Symbolic Interaction Between Migrants 
+                        and the Native-born.” Revised and resubmitted to Symbolic Interaction.  <br/>
+ 
+                        Thomas, Jacob. “From ‘Illegal’ to ‘Undocumented’—Anti-Immigrant Reactance toward a Ban of a Term Among Media 
+                        Producers and Consumers.” Under review in Political Psychology.
+
+                        <h5>Methodology:</h5>
+                        Thomas, Jacob and Peng Huang. “The Strengths and Challenges of Cross-cultural Collaborative Field 
+                        Research.” Manuscript in preparation to be submitted to Qualitative Inquiry
+                    </div>
+                </div>
+            </div>
+            <div class="research-listing">
+                <div class="research-listing-title">
+                    <div class="wrapper">
+                        <h2>Critical Normative Theories about Migration</h2>
+                    </div>
+                </div>
+                <div class="research-listing-content">
+                    <div class="wrapper">
+                        Thomas Jacob. “Incorporating the Concerns of Both Migrant-Sending and Migrant-Receiving Countries 
+                        In International Migration Policymaking.” Under review in European Journal of International Relations.<br/> 
+
+                        Thomas, Jacob. “How Assimilation(ism) Can Perpetuate the Problems of Migrant-Destination Societies: A Critically 
+                        Reflexive Theory about What Societies Expect Their Immigrants to Become.” Under review in Theory and Society.
+                    </div>
+                </div>
+            </div>
+            <div class="research-listing">
+                <div class="research-listing-title">
+                    <div class="wrapper">
+                        <h2>Public Opinion Research About International Relations and Contentious Issues</h2>
+                    </div>
+                </div>
+                <div class="research-listing-content">
+                    <div class="wrapper">
+                        Thomas, Jacob, Lemeng Liang, Shigeto Sonoda, and Yu Xie. “The Soft Power Cost of COVID-19: A Lose-Lose Outcome
+                        for China and the United States.” Under review in Chinese Journal of International Politics. <br/>
+
+                        Thomas, Jacob,  “Does the Race of Rapists and Rape Victims Matter for Abortion Opinions? Anti-Abortion 
+                        Universalism Vs. Latent Racial Eugenicist Bias in American Attitudes Toward Abortion.” Manuscript in 
+                        preparation to be submitted to Proceedings of the National Academy of Sciences. <br/>
+
+                        Thomas, Jacob, “Does What We Can See Matter for American Opinion About Gun Regulation? Experimental Impact of 
+                        Images of a Bleeding Dead Child and a “Good Guy With a Gun.” Manuscript in preparation to be submitted to 
+                        Sociological Science. <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </template>
 <style scoped>
+    .research-listing{
+        margin-bottom: 300px;
+    }
+    .research-listing-title{
+        color:white;
+        padding:20px 0px;
+        background-color: #138275;
+        text-align: center;
+    }
+    .research-listing-content{
+        margin-top: 30px;
+    }
     .image-flexbox{
         height:1200px;
         display:flex;
@@ -140,12 +275,11 @@
         text-align: center;
     }
     .side-info{
-        height:1000px;
-        float:left;
         padding-right:40px;
     }
     .about-me{
         padding: 50px 0px;
+        display:flex;
     }
     .about-me-text{
         font-size: medium;
