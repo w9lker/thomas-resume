@@ -78,9 +78,22 @@ const currentView = computed(() => {
       <component :is="currentView" />
     </div>
   </body>
+  <footer>
+
+  </footer>
 </template>
 
 <style scoped>
+  body{
+    min-height:100%;
+  }
+  footer{
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  background-color: rgb(75, 75, 75);
+  }
+
 .nav-active{
   background-color:rgb(75, 75, 75) !important;
 }
