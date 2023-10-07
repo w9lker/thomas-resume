@@ -4,7 +4,6 @@ import Home from './components/Home.vue'
 import Research from './components/Research.vue'
 import Teaching from './components/Teaching.vue'
 import Awards from './components/Awards.vue'
-import Contact from './components/Contact.vue'
 import AboutMe from './components/AboutMe.vue'
 
 const routes = {
@@ -12,7 +11,6 @@ const routes = {
   '/research': Research,
   '/teaching': Teaching,
   '/awards': Awards,
-  '/contact': Contact,
   '/aboutme':AboutMe,
 }
 const map = {
@@ -20,7 +18,6 @@ const map = {
   '/research': 'Research',
   '/teaching': 'Teaching',
   '/awards': 'Awards',
-  '/contact': 'Contact',
   '/aboutme':'AboutMe',
 }
 
@@ -54,49 +51,72 @@ const currentView = computed(() => {
 </script>
 
 <template>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-  <body>
-    <div id="nav" class="nav-menu-fixed">
-      <div class="nav-menu-wrapper wrapper flex-container">
-          <div class = "name">
-            <h1>Jacob Thomas</h1>
+  <html>
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+      <div class="content">
+        <div id="nav" class="nav-menu-fixed">
+          <div class="nav-menu-wrapper wrapper flex-container">
+              <div class = "name">
+                <h1>Jacob Thomas</h1>
+              </div>
+              <div class = "links">
+                <a id="Home" href="#/">Home</a>
+                <a id="AboutMe" href="#/aboutme">About Me</a>
+                <a id="Research" href="#/research">Research</a>
+                <a id="Teaching" href="#/teaching">Teaching</a>
+                <a id="Awards" href="#/awards">Awards</a>
+                <a id="CV" href="../public/CV-Thomas.pdf">CV</a>
+            </div>
           </div>
-          <div class = "links">
-            <a id="Home" href="#/">Home</a>
-            <a id="AboutMe" href="#/aboutme">About Me</a>
-            <a id="Research" href="#/research">Research</a>
-            <a id="Teaching" href="#/teaching">Teaching</a>
-            <a id="Awards" href="#/awards">Awards</a>
-            <a id="Contact" href="#/contact">Contact</a>
-            <a id="CV" href="../public/CV-Thomas.pdf">CV</a>
+        </div>
+        <div class="contents">
+          <component :is="currentView" />
         </div>
       </div>
-    </div>
-    <div class="contents">
-      <component :is="currentView" />
-    </div>
-  </body>
-  <footer>
-
-  </footer>
+      <footer class="footer">
+        <div class="wrapper footer-content">
+          <div>
+            Department of Sociology, The Chinese University of Hong Kong<br/>
+            Email: <a href="mailto:j.thomas@cuhk.edu.hk">j.thomas@cuhk.edu.hk</a><br/>
+          </div>
+        </div>
+      </footer>
+    </body>
+  </html>
 </template>
 
 <style scoped>
-  body{
-    min-height:100%;
+  html, body {
+    min-height: 100vh;
   }
-  footer{
-  bottom: 0;
-  width: 100%;
-  height: 200px;
-  background-color: rgb(75, 75, 75);
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .content {
+    flex: 1 0 auto;
+  }
+  .footer-content > div > a:link{
+    color:white;
+  }
+  .footer-content{
+    height:100%;
+    display:flex;
+    align-items:center;
+  }
+  .footer{
+    color:white;
+    flex-shrink: 0;
+    height:150px;
+    background-color: rgb(75, 75, 75);
   }
 
-.nav-active{
-  background-color:rgb(75, 75, 75) !important;
-}
+  .nav-active{
+    background-color:rgb(75, 75, 75) !important;
+  }
   .links > a{
     padding: 0 20px;
     font-size: large;
