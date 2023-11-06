@@ -7,17 +7,22 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="image-flexbox">
-                            <img src="../assets/Picture1.jpg" class="" alt="..." height="500px" width="300px">
+                            <img src="../assets/reserve/IMG_1041_1.jpg" class="" alt="..." height="1200px" width="auto" style="margin-top: 500px">
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="image-flexbox">
-                            <img src="../assets/Picture2.jpg" class="" alt="...">
+                            <img src="../assets/reserve/IMG_2994.jpg" class="" alt="..." height="1200px">
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="image-flexbox">
-                            <img src="../assets/volunteer_work.png" class="" alt="...">
+                            <img src="../assets/reserve/IMG_2998.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/reserve/IMG_3007.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
                         </div>
                     </div>
                 </div>
@@ -36,7 +41,7 @@
                 <div class="side-info">
                     <img src="../assets/attire.png" alt="Thomas">
                     <div class="position">
-                        <h2>Jacob Richard Thomas(唐龙)</h2>
+                        <h3>Jacob Richard Thomas(唐龙)</h3>
                         <h4>Research Assistant Professor</h4>
                         <h4>The Chinese University of Hong Kong</h4>
                         <h4>PhD (UCLA)</h4>
@@ -227,7 +232,7 @@
 </template>
 <style scoped>
     .research-listing{
-        margin-bottom: 300px;
+        margin-bottom: 50px;
     }
     .research-listing-title{
         color:white;
@@ -239,13 +244,14 @@
         margin-top: 30px;
     }
     .image-flexbox{
-        height:1200px;
+        overflow:hidden;
+        height:600px;
         display:flex;
         justify-content: center;
         align-items:center;
     }
     #carouselExample{
-        height:1200px;
+        height:600px;
         background-color: rgb(75, 75, 75);
     }
     .carousel-item > img{

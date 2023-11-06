@@ -68,7 +68,7 @@ const currentView = computed(() => {
                 <a id="Research" href="#/research">Research</a>
                 <a id="Teaching" href="#/teaching">Teaching</a>
                 <a id="Awards" href="#/awards">Awards</a>
-                <a id="CV" href="../public/CV-Thomas.pdf">CV</a>
+                <a id="CV" href="CV-Thomas.pdf">CV</a>
             </div>
           </div>
         </div>
