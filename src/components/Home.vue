@@ -5,12 +5,12 @@
         <div class="home-intro-images">
             <div id="carouselExample" class="carousel slide">
                 <div class="carousel-inner">
-                    <div class="carousel-item active">
+                    <div class="carousel-item">
                         <div class="image-flexbox">
-                            <img src="../assets/reserve/IMG_1041_1.jpg" class="" alt="..." height="1200px" width="auto" style="margin-top: 500px">
+                            <img src="../assets/reserve/IMG_1041_1.jpg" class="" alt="..." height="1600px" width="auto" style="margin-top: 700px">
                         </div>
                     </div>
-                    <div class="carousel-item">
+                    <div class="carousel-item active">
                         <div class="image-flexbox">
                             <img src="../assets/reserve/IMG_2994.jpg" class="" alt="..." height="1200px">
                         </div>
@@ -43,7 +43,8 @@
                     <div class="position">
                         <h3>Jacob Richard Thomas(唐龙)</h3>
                         <h4>Research Assistant Professor</h4>
-                        <h4>The Chinese University of Hong Kong</h4>
+                        <h5>The Chinese University of Hong Kong</h5>
+                        <h5>Department of Sociology</h5>
                         <h4>PhD (UCLA)</h4>
                     </div>
                     <div class="links">
@@ -73,164 +74,106 @@
                     </div>
                 </div>
                 <div class="about-me-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    </p>
+                    <p>Jacob Thomas is <b>Associate Professor at Department of Sociology at the Chinese University of Hong Kong</b>. 
+                        His research interests include  critical  normative theories about migration, representation of immigrants in media, 
+                        might-have been immigrants or potential immigrants and different political and cultural factors that affect migration. 
+                        He received his <b>Ph.D in Sociology from the University of California</b>, where he completed dissertation on his dissertation, 
+                        The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. He was also a <b>Postdoctoral 
+                        Research Associate</b> for the Center On Contemporary China at <b>Princeton University</b> and Peking University. Before receiving his <b>Ph.D at 
+                        University of California, Los Angeles, </b>
+                        he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
+                        from University of California, Berkeley.</b></p><br/>
+                        <p>He is currently working on publishing book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
+                        Why a Variety of Potential Emigrants Never Immigrated</i>, for which where he launched a major multi-thousand 
+                        person survey in Mainland China of three types of non-migrants: those denied non-immigrant (temporary) visas,
+                        those deterred from applying for visas due to social forces and government policy, and  those that had planned to 
+                        immigrate but who become disenchanted with the immigration dream after arrival and return</p>
                 </div>
             </div>
+            <hr>
         </div>
-        <div class="research-listings">
-            <div class="research-listing">
-                <div class="research-listing-title">
-                    <div class="wrapper">
-                        <h2>Research About Might-Have-Been-Immigrants or Potential Immigrants</h2>
+        
+        <div class="others wrapper">
+            <div class="career">
+                <h3>Major Professional Experience</h3>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2021 - Present</p>
+                    <p>Research Assistant Professor, the Chinese University of Hong Kong Department of 
+                    Sociology</p>
                     </div>
                 </div>
-                <div class="research-listing-content">
-                    <div class="wrapper">
-                        <h5>Book manuscript:</h5>
-                        Thomas, Jacob. Denial, Deterrence, and Disenchantment: Why Many Never Immigrate. Book manuscript revised
-                        and resubmitted in Cambridge University Press and under review at Oxford University Press and Stanford University Press. 
-
-                        <h5>Diagram of my book:</h5>
-
-                        <h5>Articles:</h5>
-                        Thomas, Jacob. “What Ties Individuals to a Society?: How Immobility-Mobility Capital Stratifies 
-                        Legal Movement from China to the United States.” Revised and resubmitted to American Journal of Sociology. <br/>
-
-                        Thomas, Jacob. “How Families Prevent Migration.” Under review in International Migration Review. <br/>
-
-                        Thomas, Jacob. Forthcoming. “Disenchanted With the Immigrant Dream: The Sociological Formation of 
-                        Ex-Immigrant Subjectivity.” European Journal of Sociology.
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2020 - Autumn 2021</p>
+                    <p>Postdoctoral research Associate, Princeton University, Center on Contemporary China</p>
                     </div>
                 </div>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2015 - Spring 2016</p>
+                    <p>Research Affiliate, Peking University, Center for Social Research</p>
+                    </div>
+                </div>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2012 - Summer 2013</p>
+                    <p>Foreign Expert of Academic Writing and European & American Culture(s),Beijing Foreign Studies University</p>
+                    </div>
+                </div>     
             </div>
-            <div class="research-listing">
-                <div class="research-listing-title">
-                    <div class="wrapper">
-                        <h2>Comparative Research On the Impact of Migration Policies On International Migration and Mobility</h2>
+            <div class="education">
+                <h3>Educational background</h3>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">2013 - 2020</p>
+                    <p>Ph.D, Sociology, University of California, Los Angeles
+                        Dissertation: <i>“The Denied, the Deterred, and the Disenchanted: Why a Variety of Potential Migrants Never Immigrate”</i>
+                    </p>
                     </div>
-                </div>
-                <div class="research-listing-content">
-                    <div class="wrapper">
-                        Thomas, Jacob. 2021. “From local control to remote control: an excavation of international mobility constraints.” Theory and Society 50(1): 33-64. <br/>
-
-                        Thomas, Jacob. 2023. “Bureaucratic and Organizational Amenability to Racial Diversification: How Points Systems 
-                        Replaced White-Only Immigration Policies.” International Journal of Sociology 53(2): 103-131. <br/>
-
-                        Thomas, Jacob. 2020. “When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
-                        Travel Opportunities.” International Migration 58(2): 80-97. <br/>
-
-                        Thomas, Jacob. 2019. “Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
-                        Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?” Southern California 
-                        Interdisciplinary Law Journal 29: 619-636. <br/>
-
-                        Thomas, Jacob. “Why a Targeted Travel Ban Mostly Reduced Visitors from Non-Targeted Countries: 
-                        Heterogeneity in Unintended Consequences Across Visitor Origin and Stage of Policy Formation.” Under review
-                        in Policy Studies Journal. <br/>
-
-                        Thomas, Jacob. “What Types of Famous Political Dissidents Succeed in Emigrating From Autocratic States?: 
-                        An Individual-Level Analysis of Emigration Control in the People’s Republic of China.” Under review in 
-                        European Political Science Review. <br/>
-
-                        Thomas, Jacob. “Mathematically Modeling How Bureaucrat-Civilian Interactions In Decision-making of Visa Application
-                        and Approval.” Under review in Journal of Mathematical Sociology. <br/>
-
-                        Thomas, Jacob and Peng Huang. “Affinity and Inequality in the Global Structure of the Visa-Free Mobility
-                        Network.” Manuscript in preparation to be submitted to American Sociological Review <br/>
-
-                        On-going General Research Fund Project ($78,600 USD): "What Distinguishes Emigrants From Hong Kong and 
-                        Those in Hong Kong That Merely 'Want' to Migrate"<br/>
+                </div>  
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">2011 - 2014</p>
+                    <p>Master of Art in the Social Sciences, University of Chicago</p>
                     </div>
-                </div>
-            </div>
-            <div class="research-listing">
-                <div class="research-listing-title">
-                    <div class="wrapper">
-                        <h2>Communication and Media Representations of Migrants</h2>
+                </div> 
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">N/A</p>
+                    <p>BA, Interdisciplinary Studies of Globalization, University of California, Berkeley</p>
                     </div>
-                </div>
-                <div class="research-listing-content">
-                    <div class="wrapper">
-                        Thomas, Jacob. “Visual Art as a Channel and Embodiment of Symbolic Interaction Between Migrants 
-                        and the Native-born.” Revised and resubmitted to Symbolic Interaction.  <br/>
- 
-                        Thomas, Jacob. “From ‘Illegal’ to ‘Undocumented’—Anti-Immigrant Reactance toward a Ban of a Term Among Media 
-                        Producers and Consumers.” Under review in Political Psychology.
-
-                        <h5>Methodology:</h5>
-                        Thomas, Jacob and Peng Huang. “The Strengths and Challenges of Cross-cultural Collaborative Field 
-                        Research.” Manuscript in preparation to be submitted to Qualitative Inquiry
+                </div> 
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">N/A</p>
+                    <p>Masters of Arts, Sociology, University of California, Los Angeles</p>
                     </div>
-                </div>
-            </div>
-            <div class="research-listing">
-                <div class="research-listing-title">
-                    <div class="wrapper">
-                        <h2>Critical Normative Theories about Migration</h2>
-                    </div>
-                </div>
-                <div class="research-listing-content">
-                    <div class="wrapper">
-                        Thomas Jacob. “Incorporating the Concerns of Both Migrant-Sending and Migrant-Receiving Countries 
-                        In International Migration Policymaking.” Under review in European Journal of International Relations.<br/> 
-
-                        Thomas, Jacob. “How Assimilation(ism) Can Perpetuate the Problems of Migrant-Destination Societies: A Critically 
-                        Reflexive Theory about What Societies Expect Their Immigrants to Become.” Under review in Theory and Society.
-                    </div>
-                </div>
-            </div>
-            <div class="research-listing">
-                <div class="research-listing-title">
-                    <div class="wrapper">
-                        <h2>Public Opinion Research About International Relations and Contentious Issues</h2>
-                    </div>
-                </div>
-                <div class="research-listing-content">
-                    <div class="wrapper">
-                        Thomas, Jacob, Lemeng Liang, Shigeto Sonoda, and Yu Xie. “The Soft Power Cost of COVID-19: A Lose-Lose Outcome
-                        for China and the United States.” Under review in Chinese Journal of International Politics. <br/>
-
-                        Thomas, Jacob,  “Does the Race of Rapists and Rape Victims Matter for Abortion Opinions? Anti-Abortion 
-                        Universalism Vs. Latent Racial Eugenicist Bias in American Attitudes Toward Abortion.” Manuscript in 
-                        preparation to be submitted to Proceedings of the National Academy of Sciences. <br/>
-
-                        Thomas, Jacob, “Does What We Can See Matter for American Opinion About Gun Regulation? Experimental Impact of 
-                        Images of a Bleeding Dead Child and a “Good Guy With a Gun.” Manuscript in preparation to be submitted to 
-                        Sociological Science. <br/>
-                    </div>
-                </div>
+                </div> 
             </div>
         </div>
     </body>
 </template>
 <style scoped>
+    .others{
+        width:1000px;
+        margin-bottom:100px;
+    }
+    h3{
+        font-weight: bold;
+    }
+    .entry{
+        max-width:400px;
+    }
+    .flexbox-entry{
+        display:flex;
+        justify-content: end;
+    }
+    .date-endpoints{
+        font-weight: bold;
+        margin:0px;
+        padding:0px;
+    }
     .research-listing{
         margin-bottom: 50px;
     }
@@ -245,13 +188,13 @@
     }
     .image-flexbox{
         overflow:hidden;
-        height:600px;
+        height:400px;
         display:flex;
         justify-content: center;
         align-items:center;
     }
     #carouselExample{
-        height:600px;
+        height:400px;
         background-color: rgb(75, 75, 75);
     }
     .carousel-item > img{
@@ -274,21 +217,25 @@
         display: inline;
         padding:10px
     }
-    .position > h4{
+    .position > h5, h4{
         color:grey;
     }
     .position{
         text-align: center;
     }
     .side-info{
-        padding-right:40px;
+        font-weight: bold;
+        font-family: 'Inter', sans-serif;
+        padding-left:100px;
     }
     .about-me{
         padding: 50px 0px;
         display:flex;
+        flex-direction: row-reverse;
     }
     .about-me-text{
-        font-size: medium;
+        font-size: large;
+        font-family: 'Lora', serif;
     }
     .side-info > img{
         width:400px;

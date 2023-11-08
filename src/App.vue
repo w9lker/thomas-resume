@@ -53,6 +53,9 @@ const currentView = computed(() => {
 <template>
   <html>
     <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Josefin+Sans:wght@700&family=Lora:wght@400;500&family=Montserrat:ital@1&family=Roboto&family=Vollkorn:wght@900&display=swap" rel="stylesheet">
       <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     <body>
@@ -90,6 +93,7 @@ const currentView = computed(() => {
 
 <style scoped>
   html, body {
+    font-family: 'Lora', serif;
     min-height: 100vh;
   }
   body {
@@ -115,9 +119,10 @@ const currentView = computed(() => {
   }
 
   .nav-active{
-    background-color:rgb(75, 75, 75) !important;
+    background-color:#333 !important;
   }
   .links > a{
+    font-family: 'Josefin Sans', sans-serif;
     padding: 0 20px;
     font-size: large;
     color:white;
@@ -155,7 +160,7 @@ const currentView = computed(() => {
     right: 0;
     position: sticky;
     top:0;
-    background-color: #138275;
+    background-color: rgb(62, 60, 60);
     color: white;
     margin: 0;
   }
@@ -166,6 +171,8 @@ const currentView = computed(() => {
   }
   .name {
     display: flex;
+    font-weight: 900;
+    font-family: 'Josefin Sans', sans-serif;
   }
   .links {
     justify-content: center;

@@ -1,204 +1,95 @@
 <template>
     <body>
-        <div class="wrapper">
-            <div class='about-me-intro'>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Egestas sed sed risus pretium. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Ac tincidunt vitae semper quis 
-                lectus nulla at. Massa tincidunt dui ut ornare. Sit amet porttitor eget dolor morbi non. Adipiscing tristique risus nec feugiat 
-                in fermentum. Tempus egestas sed sed risus pretium quam. Viverra nibh cras pulvinar mattis nunc sed. In egestas erat imperdiet 
-                sed euismod nisi porta. Aliquam etiam erat velit scelerisque in dictum non consectetur. Duis at consectetur lorem donec massa. 
-                Urna neque viverra justo nec. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Malesuada bibendum arcu vitae
-                elementum curabitur. Justo nec ultrices dui sapien eget mi. Faucibus pulvinar elementum integer enim neque. In cursus turpis massa
-                tincidunt dui ut ornare lectus sit. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Feugiat sed lectus 
-                vestibulum mattis ullamcorper velit sed ullamcorper.<br/><br/>
-
-                Eget est lorem ipsum dolor sit amet consectetur. Fames ac turpis egestas integer eget aliquet nibh praesent tristique. 
-                Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Viverra adipiscing at in tellus. Sem integer vitae justo
-                eget magna. Ut porttitor leo a diam sollicitudin tempor id eu nisl. Pulvinar elementum integer enim neque. Tempus egestas 
-                ed sed risus. Libero volutpat sed cras ornare arcu. Commodo odio aenean sed adipiscing diam donec adipiscing tristique.<br/><br/>
-
-                Ultrices tincidunt arcu non sodales neque. Pellentesque habitant morbi tristique senectus et netus et. Gravida dictum fusce 
-                ut placerat orci nulla pellentesque. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Nisl vel pretium 
-                lectus quam id leo in vitae turpis. Sed blandit libero volutpat sed cras. Faucibus turpis in eu mi bibendum neque egestas. Congue
-                eu consequat ac felis donec et. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Ultricies leo integer malesuada
-                nunc vel risus commodo viverra maecenas. Orci ac auctor augue mauris augue neque gravida in. A diam maecenas sed enim ut. Erat nam
-                at lectus urna duis convallis convallis tellus id. A condimentum vitae sapien pellentesque habitant morbi tristique senectus. 
-                Facilisis sed odio morbi quis. Eu mi bibendum neque egestas. Malesuada nunc vel risus commodo viverra maecenas. Fringilla urna 
-                porttitor rhoncus dolor purus non enim praesent. Tincidunt dui ut ornare lectus sit amet est. Porttitor rhoncus dolor purus non<br/><br/>
-                enim praesent.
-
-                Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Arcu non sodales neque sodales ut. Proin sed libero enim sed.
-                Sollicitudin tempor id eu nisl. Cursus in hac habitasse platea dictumst. Eu volutpat odio facilisis mauris sit amet massa vitae tortor.
-                At tempor commodo ullamcorper a lacus vestibulum. Sagittis eu volutpat odio facilisis. Viverra aliquet eget sit amet tellus cras 
-                adipiscing enim eu. Donec et odio pellentesque diam volutpat commodo sed egestas. Quis varius quam quisque id. Ut sem nulla pharetra 
-                diam sit amet. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. 
-                Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Habitant morbi tristique senectus et netus et malesuada fames. 
-                Risus viverra adipiscing at in tellus integer. Magna etiam tempor orci eu lobortis.<br/><br/>
-
-                Habitant morbi tristique senectus et netus et malesuada fames. Facilisis sed odio morbi quis commodo odio aenean sed. 
-                Feugiat in ante metus dictum at tempor commodo. Nibh praesent tristique magna sit. Pharetra massa massa ultricies mi. 
-                Enim nec dui nunc mattis enim. Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                in aliquam. Sit amet cursus sit amet dictum sit amet. Porttitor rhoncus dolor purus non enim praesent elementum facilisis. 
-                Tempor orci eu lobortis elementum.
-            </div>
+        <div class="header-image">
+            <img src="../assets/Los_Angeles.jpg" class="" alt="Photo by Cedric Letsch on Unsplash">
         </div>
-        <div class="about-me-news">
-            <div class="news-title">
-                <div class="wrapper">
-                    <h1>News and Events</h1>
+        <div class="about-me-body">
+            <div class="wrapper">
+                <div class='about-me-intro'>
+                    <div class="section"></div>
+                    Jacob Thomas grew up in an ethnically and racially diverse lower-middle class neighborhood in the <b>San 
+                    Francisco Bay Area</b> with child-hood and adolescent hobbies of video games, running, reading Stephen King novels, 
+                    and writing short stories, poetry and plays. Originally thinking he wanted to become a publisher for many of his 
+                    friends in the poetry slam and arts scene, he first majored in business administration at UC Berkeley until 
+                    he became more fascinated by changes in the world and switched to an interdisciplinary studies field major, 
+                    specializing in the study of globalization. While at <b>Berkeley</b> he also studied and trained in a variety of 
+                    Asian massage and holistic bodywork therapies at the Acupressure Institute. Since his grandmother presciently invested in 
+                    his education shortly after birth, he was fortunate and privileged to have graduated without debt, so after he graduated 
+                    he could spend a year <b>traveling around North America and every country in Europe</b> staying at the homes of locals and especially 
+                    the elderly to learn more about each country's history and culture. He returned to the US to complete over 
+                    1000 more hours in training in Acupressure Therapy, the physical therapy branch of Chinese medicine, specializing in women's 
+                    health and building up a part-time practice in Berkeley. When his mother passed away he left the US and traveled, taught 
+                    acupressure therapy, and couch surfed around the world for around five more years, eventually covering all 6 continents and 142 
+                    countries. 
+
+                    Jacob completed a <b>Masters Degree in Social Sciences at University of Chicago</b> during the 2011-2012 academic year, where he 
+                    specialized in studying qualitative methods and political theory and philosophy from Thucydides to John Rawls and contemporary 
+                    political theorists. He spent a gap year studying Mandarin and teaching Chinese graduate students academic writing and European 
+                    and American Culture and History at <b>Beijing Foreign Studies University for one year.</b> 
+
+                    In 2013, Jacob began a <b>Ph.D at UCLA's Department of Sociology</b>, where he launched a major multi-thousand person survey in 
+                    Mainland China of three types of non-migrants: 1) those denied non-immigrant (temporary) visas, 2) those deterred from 
+                    applying for visas due to social forces and government policy, and 3) those that had planned to immigrate but who become 
+                    disenchanted with the immigration dream after arrival and return. In addition to his dissertation, The Denied, the Deterred and 
+                    the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated which he plans to turn into a book, Jacob has published 
+                    articles in Theory and Society, International Migration, Contexts, and Law &: the Southern California Interdisciplinary Journal 
+                    of Law. Having taken over <b>85 seminars at UCLA</b> during his entire seven years at UCLA—including some in the Departments of <b>Anthropology, 
+                    East Asian Languages and Cultures, Education, English, Film, Geography, Information Studies, Law, Political Science, Psychology, 
+                    Public Policy, and Statistics</b>—he has learned to utilized a wide range of methods and theories in his interdisciplinary research. 
+                    In addition to serving as a teaching assistant for UCLA courses in Contemporary Sociological Theory, Immigrant Acculturation and 
+                    Assimilation, Social Norms, Self and Society, and the Sociology of Mass Communications, he served as UCLA’s online instructor of 
+                    Law and Society for undergraduate students in the US, China, Taiwan, and Pakistan during the 2020 Summer Sessions. 
+
+                    After completing his Ph.D in August 2020, he became a Postdoctoral <b>Research Associate</b> for the Center On Contemporary China at 
+                    <b>Princeton University and Peking University</b>, researching with the demographer Yu Xie the sociological impacts of COVID-19 on 
+                    human mobility and migration and how public opinion of different nationalities toward the U.S. and China has changed since the 
+                    outbreak of the coronavirus pandemic. 
+
+                    After a year of excellent methodological training in quantitative methods and preparing papers for publication at 
+                    Princeton University, he has taken up a three-year project as a <b>Research Assistant Professor in the Department of Sociology 
+                    at the Chinese University of Hong Kong</b> where he has a tentative project that draws on text data from social media and an 
+                    innovative method called an oral history experiment to assess how among individuals who thought of emigrating from Hong 
+                    Kong as China's influence over it grows, those who actually emigrate are different from those that do not. 
                 </div>
             </div>
-            <div class="news-content wrapper">
-                <div class="year 2023">
-                    <h3>2023</h3>
-                    <hr/>
-                    <ul>
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>   
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>  
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                    </ul>
+            <div class="about-me-news">
+                <div class="news-title">
+                    <div class="wrapper">
+                        <h1>News and Events</h1>
+                    </div>
                 </div>
-                <div class="year 2022">
-                    <h3>2022</h3>
-                    <hr/>
-                    <ul>
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>   
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>  
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                    </ul>
-                </div>
-                <div class="year 2021">
-                    <h3>2021</h3>
-                    <hr/>
-                    <ul>
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>   
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>  
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                    </ul>
-                </div>
-                <div class="year 2020">
-                    <h3>2020</h3>
-                    <hr/>
-                    <ul>
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>   
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li>  
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                        <li>Habitant morbi tristique senectus et netus et malesuada fames.</li>
-                        <li>Ridiculus mus mauris vitae ultricies leo integer malesuada. Nunc scelerisque viverra mauris 
-                        in aliquam. Sit amet cursus sit amet dictum sit amet.</li>
-                        <li>ibh praesent tristique magna sit.</li> 
-                    </ul>
+                <div class="news-content wrapper">
+                    Coming Soon....
                 </div>
             </div>
-        </div>
+    </div>
     </body>
 </template>
 <style scoped>
+    .about-me-body{
+        margin-top:100px;
+    }
     .about-me-news{
         margin-top:200px;
     }
+    .news-title h1{
+        font-weight: bold;
+    }
     .news-title{
+        font-weight: bold;
         text-align: center;
-        background-color: #138275;
         padding:20px 0px;
-        color:white;
         margin-bottom: 100px    
+    }
+    .header-image{
+        height:400px;
+        overflow:hidden;
+        display:flex;
+    }
+    .header-image > img{
+        width:100%;
+        height:auto;
+        object-fit: cover;
     }
     .wrapper {
         margin-left:auto;
