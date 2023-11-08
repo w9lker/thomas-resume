@@ -2,17 +2,49 @@
     <head>
     </head>
     <body>
-        <div class="images">
-            
+        <div class="home-intro-images">
+            <div id="carouselExample" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/reserve/IMG_1041_1.jpg" class="" alt="..." height="1600px" width="auto" style="margin-top: 700px">
+                        </div>
+                    </div>
+                    <div class="carousel-item active">
+                        <div class="image-flexbox">
+                            <img src="../assets/reserve/IMG_2994.jpg" class="" alt="..." height="1200px">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/reserve/IMG_2998.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/reserve/IMG_3007.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
+                        </div>
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
         </div>
         <div class="wrapper">
             <div class="about-me">
                 <div class="side-info">
                     <img src="../assets/attire.png" alt="Thomas">
                     <div class="position">
-                        <h2>Jacob Richard Thomas(唐龙)</h2>
+                        <h3>Jacob Richard Thomas(唐龙)</h3>
                         <h4>Research Assistant Professor</h4>
-                        <h4>The Chinese University of Hong Kong</h4>
+                        <h5>The Chinese University of Hong Kong</h5>
+                        <h5>Department of Sociology</h5>
                         <h4>PhD (UCLA)</h4>
                     </div>
                     <div class="links">
@@ -42,41 +74,132 @@
                     </div>
                 </div>
                 <div class="about-me-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
-                    mollit anim id est laborum.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-                    </p>
+                    <p>Jacob Thomas is <b>Associate Professor at Department of Sociology at the Chinese University of Hong Kong</b>. 
+                        His research interests include  critical  normative theories about migration, representation of immigrants in media, 
+                        might-have been immigrants or potential immigrants and different political and cultural factors that affect migration. 
+                        He received his <b>Ph.D in Sociology from the University of California</b>, where he completed dissertation on his dissertation, 
+                        The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. He was also a <b>Postdoctoral 
+                        Research Associate</b> for the Center On Contemporary China at <b>Princeton University</b> and Peking University. Before receiving his <b>Ph.D at 
+                        University of California, Los Angeles, </b>
+                        he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
+                        from University of California, Berkeley.</b></p><br/>
+                        <p>He is currently working on publishing book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
+                        Why a Variety of Potential Emigrants Never Immigrated</i>, for which where he launched a major multi-thousand 
+                        person survey in Mainland China of three types of non-migrants: those denied non-immigrant (temporary) visas,
+                        those deterred from applying for visas due to social forces and government policy, and  those that had planned to 
+                        immigrate but who become disenchanted with the immigration dream after arrival and return</p>
                 </div>
+            </div>
+            <hr>
+        </div>
+        
+        <div class="others wrapper">
+            <div class="career">
+                <h3>Major Professional Experience</h3>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2021 - Present</p>
+                    <p>Research Assistant Professor, the Chinese University of Hong Kong Department of 
+                    Sociology</p>
+                    </div>
+                </div>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2020 - Autumn 2021</p>
+                    <p>Postdoctoral research Associate, Princeton University, Center on Contemporary China</p>
+                    </div>
+                </div>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2015 - Spring 2016</p>
+                    <p>Research Affiliate, Peking University, Center for Social Research</p>
+                    </div>
+                </div>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2012 - Summer 2013</p>
+                    <p>Foreign Expert of Academic Writing and European & American Culture(s),Beijing Foreign Studies University</p>
+                    </div>
+                </div>     
+            </div>
+            <div class="education">
+                <h3>Educational background</h3>
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">2013 - 2020</p>
+                    <p>Ph.D, Sociology, University of California, Los Angeles
+                        Dissertation: <i>“The Denied, the Deterred, and the Disenchanted: Why a Variety of Potential Migrants Never Immigrate”</i>
+                    </p>
+                    </div>
+                </div>  
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">2011 - 2014</p>
+                    <p>Master of Art in the Social Sciences, University of Chicago</p>
+                    </div>
+                </div> 
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">N/A</p>
+                    <p>BA, Interdisciplinary Studies of Globalization, University of California, Berkeley</p>
+                    </div>
+                </div> 
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">N/A</p>
+                    <p>Masters of Arts, Sociology, University of California, Los Angeles</p>
+                    </div>
+                </div> 
             </div>
         </div>
     </body>
 </template>
 <style scoped>
+    .others{
+        width:1000px;
+        margin-bottom:100px;
+    }
+    h3{
+        font-weight: bold;
+    }
+    .entry{
+        max-width:400px;
+    }
+    .flexbox-entry{
+        display:flex;
+        justify-content: end;
+    }
+    .date-endpoints{
+        font-weight: bold;
+        margin:0px;
+        padding:0px;
+    }
+    .research-listing{
+        margin-bottom: 50px;
+    }
+    .research-listing-title{
+        color:white;
+        padding:20px 0px;
+        background-color: #138275;
+        text-align: center;
+    }
+    .research-listing-content{
+        margin-top: 30px;
+    }
+    .image-flexbox{
+        overflow:hidden;
+        height:400px;
+        display:flex;
+        justify-content: center;
+        align-items:center;
+    }
+    #carouselExample{
+        height:400px;
+        background-color: rgb(75, 75, 75);
+    }
+    .carousel-item > img{
+        max-height:1000px;
+    }
     .flex-container {
     justify-content: center;
     display: flex;
@@ -94,22 +217,25 @@
         display: inline;
         padding:10px
     }
-    .position > h4{
+    .position > h5, h4{
         color:grey;
     }
     .position{
         text-align: center;
     }
     .side-info{
-        height:1000px;
-        float:left;
-        padding-right:40px;
+        font-weight: bold;
+        font-family: 'Inter', sans-serif;
+        padding-left:100px;
     }
     .about-me{
         padding: 50px 0px;
+        display:flex;
+        flex-direction: row-reverse;
     }
     .about-me-text{
-        font-size: medium;
+        font-size: large;
+        font-family: 'Lora', serif;
     }
     .side-info > img{
         width:400px;
