@@ -147,7 +147,7 @@
                 <div class="flexbox-entry">
                     <div class="entry">
                     <p class="date-endpoints">N/A</p>
-                    <p>Masters of Arts, Sociology, University of California, Los Angeles</p>
+                    <p>Masters of Arts, Sociology, University of California - Los Angeles</p>
                     </div>
                 </div> 
             </div>
