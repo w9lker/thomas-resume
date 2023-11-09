@@ -73,7 +73,7 @@
                     <h3>Instructor for Graduate Students at Beijing Foreign Studies University</h3>
                     <div class="flexbox-entry">
                         <div class="entry">
-                        <p class="date-endpoints">N/A</p>
+                        <p class="date-endpoints">Not Available</p>
                         <p>Academic and Professional Writing, The Immigrant Cultures of the United States,
                             European Cultures and Societies
                         </p>
