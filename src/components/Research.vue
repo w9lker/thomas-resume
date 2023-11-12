@@ -283,7 +283,7 @@
     .iframe-container{
         margin-bottom:40px;
     }
-    .research-listing-content ul,li{
+    .research-listing-content ul, .research-listing-content li{
         margin: 0;
         padding: 0;
         margin-top:6px;
@@ -316,7 +316,8 @@
         font-size:larger;
         font-weight: bold;
         text-decoration: underline;
-        margin: 0;
+        margin-left: 0;
+        margin-right: 0;
         padding: 0;
     }
 
