@@ -253,7 +253,7 @@
                                 such as surveys, experiments, interviews, and content analysis, to provide a comprehensive and rigorous 
                                 assessment of the public opinion research about international relations and contentious issues.</p>
                             </div>
-                            <img src="../assets/IMG_by_Brian Stauffer.jpg" width="600px" height="auto" alt="Photo by Brian Stauffer(used for non-commercial purpose)">
+                            <img src="../assets/img_brian.jpg" width="600px" height="auto" alt="Photo by Brian Stauffer(used for non-commercial purpose)">
                         </div>
                         <div class="wrapper">
                             <ul>
