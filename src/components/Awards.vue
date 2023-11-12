@@ -1,7 +1,7 @@
 <template>
     <body>
         <div class="header-image">
-            <img src="../assets/award_minim.jpg" class="" alt="Photo by Brands&People on Unsplash">
+            <img src="../assets/Awards_cover.jpg" class="" alt="Photo by Wander Fleur on Unsplash">
         </div>
         <div class="awards-body">
             <div class="wrapper">
