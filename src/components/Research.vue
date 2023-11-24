@@ -29,11 +29,11 @@
                         and book manuscript <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> (under review at con Additionaly he explores
                         <b>the impact of migration policies on international migration</b>, by comparing
                         the cases of different countries using a variety of methods. He also takes a closer look at Hong Kong, for which he was
-                        awarded more than $60000 USD to research. He also recognizes the importance of knowing how
+                        awarded more than $67000 USD to research. He also recognizes the importance of knowing how
                     <b>media portrays immigrants</b> and how that narrative changed over the recent years. The latter area
                         of his research is the <b>migration policymaking</b>, taking into account concerns both of migrant-sending and
                         migrant-receiving countries. Apart from this phenomena, he also delves into many <b>contentious issues</b>, by 
-                        conduccing research on public opinion, such as abortion, race and ethnicity.
+                        conducting research on public opinion about controversial subjects, such as abortion, gun control, and racial-ethnic prejudice.
                     </div>
                     <div class="intro-shortcut">
                         <!-- <h4>Main Research Areas</h4> -->
@@ -59,14 +59,11 @@
                     <div class="research-listing-content">
                         <div class="research-listing-content-description description-one wrapper">
                             <div class="description-text">
-                                <p>The research interests of <b>Jacob Thomas</b> focus on the phenomenon of 
-                                <span>might-have-been-immigrants or potential immigrants</span>, who are people 
-                                who have the intention and the opportunity to immigrate to another 
-                                country, but ultimately decide not to do so. <b>Thomas</b> explores the 
+                                <p><b>Jacob Thomas</b> researches distinct mechanisms that lead many
+                                <span>might-have-been-immigrants </span> to never migrate. <b>Thomas</b> explores the 
                                 reasons behind this decision, and how it affects the lives and identities of these individuals and their 
-                                families. He examines the cases of Chinese people who had the chance to immigrate to the United States, 
-                                but chose to stay in China or return to China after a short period of time. He analyzes the <span>factors</span> that 
-                                influence this choice, such as the <span>legal, economic, social, and cultural</span> barriers and incentives for migration, 
+                                families.  He analyzes the <span>factors</span> that 
+                                lead to these distinct outcomes, such as the <span>legal, economic, social, and cultural</span> barriers and incentives for migration, 
                                 the role of family ties and obligations, and the formation of a sense of belonging and attachment to a society.</p>
                             </div>
                             <img src="../assets/diagram-1.png" width="600px" height="auto">
@@ -103,11 +100,11 @@
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
                                 <p>The research interests of <b>Jacob Thomas</b> focus on the comparative analysis of the <span>impact of migration policies
-                                on international migration and mobility</span>. <b>Thomas</b> examines how different types of <span>policies</span>, such as <span>visa regimes, 
-                                points systems, travel bans, and emigration controls,</span> affect the patterns and outcomes of legal and illegal movement 
-                                across borders. He compares the cases of various countries, such as China, the United States, Hong Kong, and others, 
-                                to understand the similarities and differences in their approaches and experiences. He uses a range of methods and data,
-                                such as <span>mathematical modeling, network analysis, historical documents, and surveys</span>, to provide a comprehensive and 
+                                on international migration and mobility in terms of the composition and volume of migrants and travelers in various societies including Austrlaia, Canada, China, and the United States </span>. <b>Thomas</b> examines how different types of <span>policies</span>, such as <span>visa regimes, 
+                                points systems, exit bans, and emigration controls,</span> affect the patterns authorized and unauthorized movement of migrants and travelers across borders 
+                                He seeks to offer both a positivist and interpretivist understanding of the
+                                the similarities and differences between distinct types of might-have-been-immigrants and immigrants. He uses a range of methods and data,
+                                such as <span>mathematical modeling, network analysis, historical documents, oral history methods, and online/in-person/telephone surveys</span>, to provide a comprehensive and 
                                 rigorous assessment of the effects of migration policies on individuals, families, and societies. His 
                                 research contributes to the fields of migration studies, sociology , by advancing the
                                 theoretical and empirical knowledge of the complex and dynamic phenomenon of international migration and mobility.</p>
@@ -211,13 +208,17 @@
                     <div class="research-listing-content">
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
-                                <p>The research interests of <b>Jacob Thomas</b> focus on the <span>critical normative theories 
-                                    about migration.</span> <b>Thomas</b> critically examines the assumptions and implications of the dominant normative 
+                                <p>Drawing on his own studies of political philosophy and theory, another strand of <b>Jacob Thomas'</b> research builds <span>reflexive normative theories 
+                                    about how nation-states govern international migration and immigrants.</span> <b>Thomas</b> 
+                                    For example, he has critically examined the assumptions and implications of canonical normative 
                                     theories about migration, such as <span>cosmopolitanism, nationalism, liberalism, and communitarianism</span>, and how 
-                                    they justify or criticize the existing migration policies and practices. He also proposes alternative normative
+                                    they justify or criticize the existing migration policies and practices from the perspective of migrant-receiving societies.
+                                    He also proposes alternative normative
                                     theories that incorporate the concerns and interests of both migrant-sending and migrant-receiving countries, 
-                                    such as the theory of reciprocal justice, the theory of global social justice, and the theory of democratic 
-                                    inclusion. He analyzes the <span>ethical and political dilemmas and trade-offs</span> that arise from applying these theories
+                                    such as the theory of reciprocal and restorative justice based on inequality between the migrant-sending and migrant-receiving societies
+                                    and past colonial and postcolonial exploitation. He also critiques how predominant normative foundations of accepted theories of 
+                                    immigrant acculturation/integration/assimilation in overlooking how these processes exacerbate problems of migrant-receiving societies.  
+                                    analyzes the <span>ethical and political dilemmas and trade-offs</span> that arise from applying these theories
                                     to the real-world cases of migration, such as the refugee crisis, the brain drain, the integration of immigrants,
                                     and the rights of migrants</p>
                             </div>
