@@ -16,14 +16,20 @@
                 <h1>MY RESEARCH</h1>
                 <div class="intro-body">
                     <div class="intro-text">
-                        The research interests of <b>Jacob Thomas</b> focus on the the different aspects
-                        of migration, as he tries to look at this phenomena from different perspectives.
-                        He also explored the factors of this phenomena that have been unnoticed before, such as 
-                        the reason why so many people want to migrate, but only a small portion of them mange to
-                        do so in his book manuscript<i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Additionaly he explores
+                        The research  of <b>Jacob Thomas</b> connects the fields of international migration control, inequality, and law by 
+                        generating knowledge and theories about what ties people to their society and why we do not observe more international migration.
+                        He focuses on how migration policies, bureaucracies, and social-cultural forces interact on multiple levels of society to prevent many 
+                        from migrating internationally. His ucrrent research builds upon my past research about how the behavior of administrations,  bureaucrats, and organizations change 
+                       transform as they implement policy changes, how those who migrate differ from those who do not (selectivity), and 
+                        how policies and social-cultural forces structure migration behaviors and attitudes toward migration. 
+                        
+                        His research helps explain why only a small fraction of those who would like to immigrate or travel to migrant-receiving countries
+                        in the end do so. He further explains heterogeneity in this population that many demographers have tended to lump together as "non-migrants"
+                        by examining in detail the the different mechanisms that prevent many from immigrating into other societies do. In his his dissertation
+                        and book manuscript <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> (under review at con Additionaly he explores
                         <b>the impact of migration policies on international migration</b>, by comparing
-                        the cases of different countries using a variety of tools. He also takes a closer look at Hong Kong, for which he was
-                        awarded more than $70000 USD to research. He also recognizes the importance of knowing how
+                        the cases of different countries using a variety of methods. He also takes a closer look at Hong Kong, for which he was
+                        awarded more than $60000 USD to research. He also recognizes the importance of knowing how
                     <b>media portrays immigrants</b> and how that narrative changed over the recent years. The latter area
                         of his research is the <b>migration policymaking</b>, taking into account concerns both of migrant-sending and
                         migrant-receiving countries. Apart from this phenomena, he also delves into many <b>contentious issues</b>, by 
