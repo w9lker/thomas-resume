@@ -3,26 +3,27 @@
     </head>
     <body>
         <div class="home-intro-images">
-            <div id="carouselExample" class="carousel slide">
-                <div class="carousel-inner">
-                    <div class="carousel-item">
-                        <div class="image-flexbox">
-                            <img src="../assets/reserve/IMG_1041_1.jpg" class="" alt="..." height="1600px" width="auto" style="margin-top: 700px">
-                        </div>
-                    </div>
+            <img src="../assets/dr_thomas_slider.png" width="100%" style="margin:top:100px">
+            <!-- <div id="carouselExample" class="carousel slide"> -->
+                <!-- <div class="carousel-inner">
                     <div class="carousel-item active">
                         <div class="image-flexbox">
-                            <img src="../assets/reserve/IMG_2994.jpg" class="" alt="..." height="1200px">
+                            <img src="../assets/dr_thomas_slider.png" class="" alt="..."  width="100%" style="margin-top:100px">
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="image-flexbox">
-                            <img src="../assets/reserve/IMG_2998.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
+                            <img src="../assets/dr_thomas_slider.png" class="" alt="..." >
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="image-flexbox">
-                            <img src="../assets/reserve/IMG_3007.jpg" class="" alt="..." height="1200px" style="margin-top: 300px">
+                            <img src="../assets/dr_thomas_slider.png" class="" alt="..." style="margin-top: 300px">
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="image-flexbox">
+                            <img src="../assets/dr_thomas_slider.png" class="" alt="..." style="margin-top: 300px">
                         </div>
                     </div>
                 </div>
@@ -34,12 +35,12 @@
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
-            </div>
+            </div> -->
         </div>
         <div class="wrapper">
             <div class="about-me">
                 <div class="side-info">
-                    <img src="../assets/attire.png" alt="Thomas">
+                    <img src="../assets/reserve/IMG_1041_1.jpg" alt="Thomas">
                     <div class="position">
                         <h3>Jacob Richard Thomas(唐龙)</h3>
                         <h4>Research Assistant Professor</h4>
@@ -93,10 +94,10 @@
                         immigrate but who become disenchanted with the immigration dream after arrival and return (ex-immigrants)</p>
                 </div>
             </div>
-            <hr>
+            <!-- <hr> -->
         </div>
         
-        <div class="others wrapper">
+        <!-- <div class="others wrapper">
             <div class="career">
                 <h3>Major Professional Experience</h3>
                 <div class="flexbox-entry">
@@ -154,7 +155,7 @@
                     </div>
                 </div> 
             </div>
-        </div>
+        </div> -->
     </body>
 </template>
 <style scoped>
@@ -191,13 +192,13 @@
     }
     .image-flexbox{
         overflow:hidden;
-        height:400px;
+        height:300px;
         display:flex;
         justify-content: center;
         align-items:center;
     }
     #carouselExample{
-        height:400px;
+        height:300px;
         background-color: rgb(75, 75, 75);
     }
     .carousel-item > img{
