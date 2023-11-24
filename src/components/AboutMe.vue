@@ -32,7 +32,7 @@
                     applying for visas due to social forces and government policy, and 3) those that had planned to immigrate but who become 
                     disenchanted with the immigration dream after arrival and return. In addition to his dissertation, The Denied, the Deterred and 
                     the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated which he plans to turn into a book, Jacob has published 
-                    articles in Theory and Society, International Migration, Contexts, and Law &: the Southern California Interdisciplinary Journal 
+                    articles in Theory and Society, International Journal of Sociology, European Journal of Sociology, International Migration, Contexts, and Law &: the Southern California Interdisciplinary Journal 
                     of Law. Having taken over <b>85 seminars at UCLA</b> during his entire seven years at UCLA—including some in the Departments of <b>Anthropology, 
                     East Asian Languages and Cultures, Education, English, Film, Geography, Information Studies, Law, Political Science, Psychology, 
                     Public Policy, and Statistics</b>—he has learned to utilized a wide range of methods and theories in his interdisciplinary research. 
@@ -41,15 +41,19 @@
                     Law and Society for undergraduate students in the US, China, Taiwan, and Pakistan during the 2020 Summer Sessions. 
 
                     After completing his Ph.D in August 2020, he became a Postdoctoral <b>Research Associate</b> for the Center On Contemporary China at 
-                    <b>Princeton University and Peking University</b>, researching with the demographer Yu Xie the sociological impacts of COVID-19 on 
+                    <b>Princeton University and Peking University</b>, researching with the demographers Yu Xie, Lemeng Liang, and Shigeto Sonoda 
+                    the sociological impacts of COVID-19 on 
                     human mobility and migration and how public opinion of different nationalities toward the U.S. and China has changed since the 
                     outbreak of the coronavirus pandemic. 
 
                     After a year of excellent methodological training in quantitative methods and preparing papers for publication at 
                     Princeton University, he has taken up a three-year project as a <b>Research Assistant Professor in the Department of Sociology 
                     at the Chinese University of Hong Kong</b> where he has a tentative project that draws on text data from social media and an 
-                    innovative method called an oral history experiment to assess how among individuals who thought of emigrating from Hong 
-                    Kong as China's influence over it grows, those who actually emigrate are different from those that do not. 
+                    innovative method called an oral history experiment to assess how among individuals who emigrated are different from those who considered 
+                   emigrating from Hong Kong but never did after the city underwent a large socio-political shock that led to city's largest out-migration on record.
+                    Despite the unprecedented absolute volume of the recent outflow, through such research Jacob seeks to explain the puzzle of why only 2% per year has emigrated from Hong Kongers
+                    when 40% of the population has reported in the Hong Kong Institute of Asian Pacific Studies that they would emigrate if they had an opportunity
+                    and 15% said they made concrete plans to soon do so.
                 </div>
             </div>
             <div class="about-me-news">
