@@ -328,13 +328,19 @@
     }
 
     .intro-shortcut ul{
+        height:100%;
         list-style:none;
+        display:flex;
+        flex-direction: column;
+        justify-content:start;
     }
     .intro-text{
         flex:1.6;
         padding-right: 50px;
     }
     .intro-shortcut{
+        justify-content: center;
+        align-items:center;
         padding-top:15px;
         padding-bottom:15px;
         padding-left:15px;
