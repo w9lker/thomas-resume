@@ -74,20 +74,23 @@
                     </div>
                 </div>
                 <div class="about-me-text">
-                    <p>Jacob Thomas is <b>Associate Professor at Department of Sociology at the Chinese University of Hong Kong</b>. 
-                        His research interests include  critical  normative theories about migration, representation of immigrants in media, 
-                        might-have been immigrants or potential immigrants and different political and cultural factors that affect migration. 
+                    <p>Jacob Thomas is <b>Research Assistant Professor at Department of Sociology of the Chinese University of Hong Kong</b>. 
+                        His research interests include how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows, 
+                        how policy and organizational changes structure migrant selectivity and inequality in migratory opportunity, reflexively normative theories about 
+                        how migrant-receiving and -sending states govern migrant flows and migrants and and representation of immigrants and other controversial matters 
+                        in media, images, and texts.  
+                        
                         He received his <b>Ph.D in Sociology from the University of California</b>, where he completed dissertation on his dissertation, 
                         The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. He was also a <b>Postdoctoral 
                         Research Associate</b> for the Center On Contemporary China at <b>Princeton University</b> and Peking University. Before receiving his <b>Ph.D at 
                         University of California, Los Angeles, </b>
                         he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
-                        from University of California, Berkeley.</b></p><br/>
-                        <p>He is currently working on publishing book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
-                        Why a Variety of Potential Emigrants Never Immigrated</i>, for which where he launched a major multi-thousand 
-                        person survey in Mainland China of three types of non-migrants: those denied non-immigrant (temporary) visas,
-                        those deterred from applying for visas due to social forces and government policy, and  those that had planned to 
-                        immigrate but who become disenchanted with the immigration dream after arrival and return</p>
+                        from University of California, Berkeley where he studied political science, economics, and cultural anthropology.</b></p><br/>
+                        <p>He has finished a book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
+                        Why a Variety of Potential Emigrants Never Immigrated</i>, based on a multi-thousand 
+                        person survey he conducted in Mainland China of three distinct types of non-migrants: those denied non-immigrant (temporary) visas,
+                        those deterred from applying for visas due to an interaction of socio-cultural forces and government policy, and  those that had planned to 
+                        immigrate but who become disenchanted with the immigration dream after arrival and return (ex-immigrants)</p>
                 </div>
             </div>
             <hr>
