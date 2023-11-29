@@ -1,7 +1,15 @@
 <template>
     <body>
-        <div class="header-image">
-            <img src="../assets/Awards_cover.jpg" style="margin-top:200px;" >
+        <div class="header">
+            <div class="header-image">
+                <img src="../assets/Awards_cover.jpg" style="margin-top:200px;" >
+            </div>
+            <div class="caption">
+                <div class="caption-content">
+                <p>"Photo of Jacob with poster judges after receiving award for poster at PAA's 
+                2018 Annual Meeting Migration, Immigration, Geographic Mobility Poster Session"</p>
+                </div>
+            </div>
         </div>
         <div class="awards-body">
             <div class="wrapper">
@@ -63,6 +71,18 @@
     </body>
 </template>
 <style scoped>
+    .header{
+        position: relative;
+        color:black;
+    }
+    .caption-content{
+        position: absolute;
+        width:400px;
+    }
+    .caption{
+        display:flex;
+        justify-content: end;
+    }
     .award-section{
         padding-top:50px;
     }
