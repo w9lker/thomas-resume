@@ -13,34 +13,32 @@
         </div>
         <div class="wrapper">
             <section class="intro wrapper">
-                <h1>MY RESEARCH</h1>
+                <h1>RESEARCH</h1>
                 <div class="intro-body">
                     <div class="intro-text">
                         The research  of <b>Jacob Thomas</b> connects the fields of international migration control, inequality, and law by 
                         generating knowledge and theories about what ties people to their society and why we do not observe more international migration.
                         He focuses on how migration policies, bureaucracies, and social-cultural forces interact on multiple levels of society to prevent many 
-                        from migrating internationally. Strands of this research include how the behavior of administrations,  bureaucrats, and organizations in government change 
-                       transform as they implement policy changes, how those who migrate differ from those who do not (selectivity), and 
+                        from migrating internationally. His research encompasses how the behavior of bureaucrats and organizations in government change 
+                        as they adopt and implement new policy changes, how those who migrate differ from those who do not (selectivity), and 
                         how policies and social-cultural forces structure migration behaviors and subjective orientations toward migration. 
                         
-                        His research helps explain why only a small fraction of those who would like to immigrate or travel to migrant-receiving countries
-                        in the end do so. He further explains heterogeneity in this population in migrant-sending societies that many demographers have tended to lump together as "non-migrants"
-                        by examining in detail the the different mechanisms that prevent many from immigrating into other societies do.  Additionaly he explores
-                        <b>the impact of migration policies on international migration</b>, by comparing
-                        the cases of different countries using a variety of methods. 
+                        His main research aims to explain why despite widespread public perceptions that too many people are migrating, only a small fraction of those 
+                        who would like to immigrate or travel to migrant-receiving countries in the end do so. He further explains heterogeneity in this 
+                        might-have-been-immigrant population in migrant-sending societies that many demographers have tended to lump together 
+                        by examining in detail three different mechanisms--denial, deterrence, and disenchantment--that lead many to never immigrate. 
+                        Additionaly he explores <b>the impact of migration policies on international migration</b> both with focused case comparisons
+                        (e.g., Australia, Canada, China, and the United States) with variety of methods, as well as large-N quantitative macro-analyses of 
+                        all countries throughout decades of migratoin history. 
                         
                         With the support of a $67000 USD research grant he is currently surveying the population
-                        of Hong Kong to better understand how those who emigrated are different those who considered/thought about migrating but have not yet done so. 
+                        of Hong Kong to better understand how those who emigrated are different those who considered/thought about migrating but have not yet done so
+                        after the China's government imposed a National Security Law that criminalized all protest against China's government and required 
+                        education to instill positive views in all school children toward China's government. 
                         He also assess how the way the <b>media represents </b> of immigrants and other controversial issues structures public attitudes 
                         toward social problems and phenomenon like abortion, gun control, and racial-ethnic prejudice in the United States.
-                        Finally, he has developed several critical normative theories about international migration based upon extensive knowledge 
-                        of positivist, empirical research about international migration. For example, he shows  how normative theorists have
-                       generally do not incorporate the concerns of both migrant-receiving and migrant-sending societies in developing their visions of a
-                        just international migration policy and he has proposed a framework for doing so. He also draws on empirical research to 
-                        challenges the conventional assumption that immigrant acculturation/assimilation into a society 
-                        is beneficial for that society and suggests that migrant-receiving societies would be better off if they did not do so.
-                        of his research is the <b>migration policymaking</b>, taking into account concerns both of migrant-sending and
-                        migrant-receiving countries. 
+                        He has developed several critical normative theories about international migration based upon extensive knowledge 
+                        of positivist, empirical research about international migration.
                     </div>
                     <div class="intro-shortcut">
                         <!-- <h4>Main Research Areas</h4> -->
@@ -66,7 +64,9 @@
                     <div class="research-listing-content">
                         <div class="research-listing-content-description description-one wrapper">
                             <div class="description-text">
-                                <p><b>Jacob Thomas</b> researches distinct mechanisms that lead many
+                                <p><b>Jacob Thomas</b> dissertation drew on a survey and interviews with thousands of participants in mainland China who never
+                                    immigrated into another country despite previously aspiring to do so. He drew on this data to better understand  in depth 
+                                    distinct mechanisms that lead many such
                                 <span>might-have-been-immigrants </span> to never migrate. <b>Thomas</b> explores the 
                                 reasons behind this decision, and how it affects the lives and identities of these individuals and their 
                                 families.  He analyzes the <span>factors</span> that 
@@ -109,13 +109,14 @@
                                 <p>The primary focus of <b>Jacob Thomas'</b> research engages in both comparative and international analysis of
                                 the <span>impact of migration policies on international migration and mobility in terms of the composition and volume of migrants and travelers.
                                 He examines this general phenomenon in a diverse range of societies including Australia, Canada, China, and the United States, and also at the international macro-level
-                                with data from nearly every country </span>. <b>
+                                with quantitative data from nearly every country </span>. <b>
                                 Thomas</b> examines how different forms of <span>policies</span>, such as <span>visa regimes, 
                                 points systems, exit bans, and emigration controls,</span> affect the patterns authorized and unauthorized movement of migrants and travelers across borders
                                     and also the social forces that structure those visa policies.
-                                His research draws on both quantitative and qualitative data to offer both a positivist and interpretivist understanding of the
+                                His research draws on both quantitative and qualitative data to offer simultaneously provide both positivist and interpretivist insights about the
                                 the similarities and differences between distinct types of might-have-been-immigrants and immigrants. He uses a range of methods and data,
-                                such as <span>mathematical modeling, network analysis, historical documents, oral history methods, and online/in-person/telephone surveys</span>, to provide a comprehensive and 
+                                including <span>formal mathematical modeling, computational text analysis, network analysis, historical documents, oral history methods, 
+                                    analysis of art and visual media, and online/in-person/telephone surveys</span>, to provide a comprehensive and 
                                 rigorous assessment of the effects of migration policies on individuals, families, and societies. His 
                                 research contributes to the fields of migration studies, by advancing the
                                 theoretical and empirical knowledge of the complex and dynamic phenomenon of international migration and mobility.</p>
@@ -135,7 +136,7 @@
                                 </li>
                                 <li>
                                  <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
+                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
                                 </li>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
@@ -148,7 +149,8 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                                     in European Sociological Review. 
                                 </li>
                                 <li>
-                                    <b>Thomas, Jacob.</b> <i>“What Types of Famous Political Dissidents Succeed in Emigrating From Autocratic States?: 
+                                    <b>Thomas, Jacob.</b> <i>“What Types of Famous Political Dissidents Succeed in Emigrating 
+                                        From Autocratic States?: 
                                     An Individual-Level Analysis of Emigration Control in the People’s Republic of China.”</i> Under review in 
                                     European Political Science Review. 
                                 </li>
@@ -163,7 +165,7 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                                 </li>
                                 <li>
                                     <b>On-going General Research Fund Project ($78,600 USD)</b>: <i>"What Distinguishes Emigrants From Hong Kong and 
-                                    Those in Hong Kong That Merely 'Want' to Migrate"</i>
+                                    Those in Hong Kong That Merely 'Want' to Emigrate"</i>
                                 </li>
                             </ul>
                         </div>
@@ -178,7 +180,7 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                     <div class="research-listing-content">
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
-                                <p>The research interests of <b>Jacob Thomas</b> focus on the <span>communication
+                                <p>The research interests of <b>Jacob Thomas</b> also focus on the <span>communication
                                 and media representations of migrants and their interactions with
                                 the native-born population.</span> <b>Thomas</b> investigates how different forms
                                 of communication, such as visual art, language, and social media,
@@ -195,7 +197,7 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                                 experiments, and content analysis, to provide a rich and nuanced 
                                 account of this important and timely phenomenon. With his coauthor Huang Peng
                                 also methodologically analyzes the
-                                benefits of drawing on complementary positionalities in field research and how it can augment
+                                benefits of drawing on complementary positionalities in qualitative field research and how it can augment
                                     the quality of data uncovered. m </p>
                             </div>
                             <img src="../assets/representation_img_1.jpg" width="700px" height="auto">
@@ -227,16 +229,22 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                     <div class="research-listing-content">
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
-                                <p>Drawing on his own studies of political philosophy and theory, another strand of <b>Jacob Thomas'</b> research builds <span>reflexive normative theories 
-                                    about how nation-states govern international migration and immigrants.</span> <b>Thomas</b> 
-                                    For example, he has critically examined the assumptions and implications of canonical normative 
+                                <p>Drawing on his own studies of political philosophy and theory, another strand of <b>Jacob Thomas'</b> 
+                                    research synthesizes positivist empirical research on intenrational migration to build 
+                                    <span>reflexive and critical normative theories 
+                                    about how nation-states govern international migration and immigrants.</span> 
+                                    For example, he has critically examined the assumptions and implications of canonical and influential normative 
                                     theories about migration, such as <span>cosmopolitanism, nationalism, liberalism, and communitarianism</span>, and how 
-                                    they justify or criticize the existing migration policies and practices from the perspective of migrant-receiving societies.
-                                    He also proposes alternative normative
-                                    theories that incorporate the concerns and interests of both migrant-sending and migrant-receiving countries, 
-                                    such as the theory of reciprocal and restorative justice based on inequality between the migrant-sending and migrant-receiving societies
-                                    and past colonial and postcolonial exploitation. He also critiques how predominant normative foundations of accepted theories of 
-                                    immigrant acculturation/integration/assimilation in overlooking how these processes exacerbate problems of migrant-receiving societies.  
+                                    they fail to address  the concerns of both migrant-receiving societies and migrant-sending societies, thereby perpetuating to
+                                    migration flows that both societies find undesirable.
+                                    Not stopping with a critique, he then proposes alternative framework that incorporates the input of different groups
+                                    in both migrant-receiving and migrant-sending in generating a vision for a more just and truly international migration policy
+                                    based on the inequality between countries and colonial and postcolonial histories of harm suffered.
+                                    He also draws on interdisciplinary empirical studies of migrant acculturation to show how predominant and normative foundations of 
+                                    accepted social science theories of immigrant acculturation/integration/assimilation overlook how these processes perpetuate and 
+                                    exacerbate constitutive cultural problems of migrant-receiving societies. After providing a conceptual language to perceive
+                                    these subtle forces, he then suggests ways in which minority groups provide inspiration for alternative progressive paths of
+                                    acculturation into migrant-receiving society that helps them confront their pathologies.  
                                     <span></span> </p>
                             </div>
                             <img src="../assets/soc_pov_immig_2.jpg" width="600px" height="auto">
@@ -269,11 +277,11 @@ Points Systems Replaced White-Only Immigration Policies.” </i>International Jo
                                 investigates how the public perceives and evaluates the actions and 
                                 policies of different countries and actors in the global arena, and 
                                 how these opinions are influenced by various factors, such as the media,
-                                the culture, the ideology, and the emotions. He examines the cases of 
+                                 cultural attachments,  political ideology, and  emotional-visceral reaction to imagery/stories. He examines the cases of 
                                 various international relations and contentious issues, such as the 
                                 <span>COVID-19 pandemic, the abortion controversy, concerns about racial miscegenation, and the gun regulation debate,</span> 
                                 and how they affect the attitudes and behaviors of the public in 
-                                different countries, especially in the United States. He uses a range of methods and data, 
+                                different countries, primarily in the United States. He uses a range of methods and data, 
                                 such as surveys, experiments, interviews, and content analysis, to provide a comprehensive and rigorous 
                                 assessment of the public opinion research about international relations and contentious issues.</p>
                             </div>
