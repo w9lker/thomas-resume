@@ -1,7 +1,7 @@
 <template>
     <body>
         <div class="header-image">
-            <img src="../assets/Awards_cover.jpg" class="" width="100px">
+            <img src="../assets/Awards_cover.jpg" style="margin-top:200px;" >
         </div>
         <div class="awards-body">
             <div class="wrapper">
@@ -10,14 +10,14 @@
                     <div class="CUHK award-section">
                         <h4>The Chinese University of Hong Kong</h4>
                         <ul>
-                            <li>2022-2023 General Research Fund Grant ($78,600) for study “Who Realizes Their Online Intentions
+                            <li><b>2022-2023</b> General Research Fund Grant <span>($78,600)</span> for study “Who Realizes Their Online Intentions
                             To Emigrate? What Distinguishes Emigrants from Potential Emigrants in the Context of Rapid and
                             Sudden Social Change.” Hong Kong University Grant Committee (GRF-funded survey project
                             website: www.hkemigrationproject.space )</li>
-                            <li> Direct Grant ($6,500), 2023, Chinese University of Hong Kong for study “Does What We Can See
+                            <li> Direct Grant <span>($6,500)</span>, <b>2023</b>, Chinese University of Hong Kong for study “Does What We Can See
                             Matter for American Opinion About Gun Regulation? Experimental Impact of Images of a Bleeding
                             Dead Child and a ‘Good Guy With a Gun’”</li>
-                            <li>Direct Grant ($6,500), 2022, Chinese University of Hong Kong for study “Who Realizes Their
+                            <li>Direct Grant <span>($6,500)</span>, <b>2022</b>, Chinese University of Hong Kong for study “Who Realizes Their
                             Online Intentions To Emigrate? What Distinguishes Emigrants from Potential Emigrants in the
                             Context of Rapid and Sudden Social Change”</li>
                         </ul>
@@ -85,10 +85,15 @@
         height:400px;
         overflow:hidden;
         display:flex;
+        overflow:hidden;
+        height:400px;
+        display:flex;
+        justify-content: center;
+        align-items:center;
     }
     .header-image > img{
-        width:100%;
-        height:auto;
+        /* width:100%; */
+        /* height:auto; */
         object-fit: cover;
     }
     h1{
