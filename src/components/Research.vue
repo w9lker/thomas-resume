@@ -19,21 +19,28 @@
                         The research  of <b>Jacob Thomas</b> connects the fields of international migration control, inequality, and law by 
                         generating knowledge and theories about what ties people to their society and why we do not observe more international migration.
                         He focuses on how migration policies, bureaucracies, and social-cultural forces interact on multiple levels of society to prevent many 
-                        from migrating internationally. His ucrrent research builds upon my past research about how the behavior of administrations,  bureaucrats, and organizations change 
+                        from migrating internationally. Strands of this research include how the behavior of administrations,  bureaucrats, and organizations in government change 
                        transform as they implement policy changes, how those who migrate differ from those who do not (selectivity), and 
-                        how policies and social-cultural forces structure migration behaviors and attitudes toward migration. 
+                        how policies and social-cultural forces structure migration behaviors and subjective orientations toward migration. 
                         
                         His research helps explain why only a small fraction of those who would like to immigrate or travel to migrant-receiving countries
-                        in the end do so. He further explains heterogeneity in this population that many demographers have tended to lump together as "non-migrants"
-                        by examining in detail the the different mechanisms that prevent many from immigrating into other societies do. In his his dissertation
-                        and book manuscript <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> (under review at con Additionaly he explores
+                        in the end do so. He further explains heterogeneity in this population in migrant-sending societies that many demographers have tended to lump together as "non-migrants"
+                        by examining in detail the the different mechanisms that prevent many from immigrating into other societies do.  Additionaly he explores
                         <b>the impact of migration policies on international migration</b>, by comparing
-                        the cases of different countries using a variety of methods. He also takes a closer look at Hong Kong, for which he was
-                        awarded more than $67000 USD to research. He also recognizes the importance of knowing how
-                    <b>media portrays immigrants</b> and how that narrative changed over the recent years. The latter area
+                        the cases of different countries using a variety of methods. 
+                        
+                        With the support of a $67000 USD research grant he is currently surveying the population
+                        of Hong Kong to better understand how those who emigrated are different those who considered/thought about migrating but have not yet done so. 
+                        He also assess how the way the <b>media represents </b> of immigrants and other controversial issues structures public attitudes 
+                        toward social problems and phenomenon like abortion, gun control, and racial-ethnic prejudice in the United States.
+                        Finally, he has developed several critical normative theories about international migration based upon extensive knowledge 
+                        of positivist, empirical research about international migration. For example, he shows  how normative theorists have
+                       generally do not incorporate the concerns of both migrant-receiving and migrant-sending societies in developing their visions of a
+                        just international migration policy and he has proposed a framework for doing so. He also draws on empirical research to 
+                        challenges the conventional assumption that immigrant acculturation/assimilation into a society 
+                        is beneficial for that society and suggests that migrant-receiving societies would be better off if they did not do so.
                         of his research is the <b>migration policymaking</b>, taking into account concerns both of migrant-sending and
-                        migrant-receiving countries. Apart from this phenomena, he also delves into many <b>contentious issues</b>, by 
-                        conducting research on public opinion about controversial subjects, such as abortion, gun control, and racial-ethnic prejudice.
+                        migrant-receiving countries. 
                     </div>
                     <div class="intro-shortcut">
                         <!-- <h4>Main Research Areas</h4> -->
@@ -99,14 +106,18 @@
                         </div>
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
-                                <p>The research interests of <b>Jacob Thomas</b> focus on the comparative analysis of the <span>impact of migration policies
-                                on international migration and mobility in terms of the composition and volume of migrants and travelers in various societies including Austrlaia, Canada, China, and the United States </span>. <b>Thomas</b> examines how different types of <span>policies</span>, such as <span>visa regimes, 
-                                points systems, exit bans, and emigration controls,</span> affect the patterns authorized and unauthorized movement of migrants and travelers across borders 
-                                He seeks to offer both a positivist and interpretivist understanding of the
+                                <p>The primary focus of <b>Jacob Thomas'</b> research engages in both comparative and international analysis of
+                                the <span>impact of migration policies on international migration and mobility in terms of the composition and volume of migrants and travelers.
+                                He examines this general phenomenon in a diverse range of societies including Australia, Canada, China, and the United States, and also at the international macro-level
+                                with data from nearly every country </span>. <b>
+                                Thomas</b> examines how different forms of <span>policies</span>, such as <span>visa regimes, 
+                                points systems, exit bans, and emigration controls,</span> affect the patterns authorized and unauthorized movement of migrants and travelers across borders
+                                    and also the social forces that structure those visa policies.
+                                His research draws on both quantitative and qualitative data to offer both a positivist and interpretivist understanding of the
                                 the similarities and differences between distinct types of might-have-been-immigrants and immigrants. He uses a range of methods and data,
                                 such as <span>mathematical modeling, network analysis, historical documents, oral history methods, and online/in-person/telephone surveys</span>, to provide a comprehensive and 
                                 rigorous assessment of the effects of migration policies on individuals, families, and societies. His 
-                                research contributes to the fields of migration studies, sociology , by advancing the
+                                research contributes to the fields of migration studies, by advancing the
                                 theoretical and empirical knowledge of the complex and dynamic phenomenon of international migration and mobility.</p>
                                 <span class="website">Website for the project:    <a href="https://www.hkemigrationproject.space/">https://www.hkemigrationproject.space/</a></span>
                             </div>
@@ -123,6 +134,10 @@
                                     Travel Opportunities.”</i> International Migration 58(2): 80-97. 
                                 </li>
                                 <li>
+                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
+Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
+                                </li>
+                                <li>
                                     <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
                                     Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?”</i> Southern California 
                                     Interdisciplinary Law Journal 29: 619-636.
@@ -130,13 +145,14 @@
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“Why a Targeted Travel Ban Mostly Reduced Visitors from Non-Targeted Countries: 
                                     Heterogeneity in Unintended Consequences Across Visitor Origin and Stage of Policy Formation.”</i> Under review
-                                    in Policy Studies Journal. 
+                                    in European Sociological Review. 
                                 </li>
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“What Types of Famous Political Dissidents Succeed in Emigrating From Autocratic States?: 
                                     An Individual-Level Analysis of Emigration Control in the People’s Republic of China.”</i> Under review in 
                                     European Political Science Review. 
                                 </li>
+                    
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“Mathematically Modeling How Bureaucrat-Civilian Interactions In Decision-making of Visa Application
                                     and Approval.”</i> Under review in Journal of Mathematical Sociology. 
@@ -156,7 +172,7 @@
                 <div class="research-listing" id="section_3">
                     <div class="research-listing-title">
                         <div class="wrapper">
-                            <h2>COMMUNICATION AND MEDIA REPRESENTATIONS OF MIGRANTS</h2>
+                            <h2>COMMUNICATION AND MEDIA REPRESENTATIONS OF MIGRANTS AND SOCIAL PROBLEMS</h2>
                         </div>
                     </div>
                     <div class="research-listing-content">
@@ -177,7 +193,10 @@
                                 behaviors of the media producers and consumers. He uses a variety 
                                 of methods and data, such as ethnographic observations, interviews,
                                 experiments, and content analysis, to provide a rich and nuanced 
-                                account of this important and timely phenomenon.</p>
+                                account of this important and timely phenomenon. With his coauthor Huang Peng
+                                also methodologically analyzes the
+                                benefits of drawing on complementary positionalities in field research and how it can augment
+                                    the quality of data uncovered. m </p>
                             </div>
                             <img src="../assets/representation_img_1.jpg" width="700px" height="auto">
                         </div>
@@ -189,7 +208,7 @@
                                 </li>
                                 <li>    
                                     <b>Thomas, Jacob.</b> “From <i>‘Illegal’ to ‘Undocumented’—Anti-Immigrant Reactance toward a Ban of a Term Among Media 
-                                    Producers and Consumers.”</i> Under review in Political Psychology. 
+                                    Producers and Consumers.”</i> Under review in Journal of Communication. 
                                 </li>
                                 <li>
                                     <b>Thomas, Jacob and Peng Huang.</b> <i>“The Strengths and Challenges of Cross-cultural Collaborative Field 
@@ -218,9 +237,7 @@
                                     such as the theory of reciprocal and restorative justice based on inequality between the migrant-sending and migrant-receiving societies
                                     and past colonial and postcolonial exploitation. He also critiques how predominant normative foundations of accepted theories of 
                                     immigrant acculturation/integration/assimilation in overlooking how these processes exacerbate problems of migrant-receiving societies.  
-                                    analyzes the <span>ethical and political dilemmas and trade-offs</span> that arise from applying these theories
-                                    to the real-world cases of migration, such as the refugee crisis, the brain drain, the integration of immigrants,
-                                    and the rights of migrants</p>
+                                    <span></span> </p>
                             </div>
                             <img src="../assets/soc_pov_immig_2.jpg" width="600px" height="auto">
                         </div>
@@ -228,7 +245,7 @@
                             <ul>
                                 <li>
                                     <b>Thomas Jacob.</b> <i>“Incorporating the Concerns of Both Migrant-Sending and Migrant-Receiving Countries 
-                                    In International Migration Policymaking.”</i> Under review in European Journal of International Relations.
+                                    In International Migration Policymaking.”</i> Under review in Political Studies.
                                 </li>
                                 <li>    
                                     <b>Thomas, Jacob.</b> <i>“How Assimilation(ism) Can Perpetuate the Problems of Migrant-Destination Societies: A Critically 
@@ -254,7 +271,7 @@
                                 how these opinions are influenced by various factors, such as the media,
                                 the culture, the ideology, and the emotions. He examines the cases of 
                                 various international relations and contentious issues, such as the 
-                                <span>COVID-19 pandemic, the abortion debate, and the gun regulation debate,</span> 
+                                <span>COVID-19 pandemic, the abortion controversy, concerns about racial miscegenation, and the gun regulation debate,</span> 
                                 and how they affect the attitudes and behaviors of the public in 
                                 different countries, especially in the United States. He uses a range of methods and data, 
                                 such as surveys, experiments, interviews, and content analysis, to provide a comprehensive and rigorous 
