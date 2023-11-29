@@ -76,10 +76,12 @@
                 </div>
                 <div class="about-me-text">
                     <p>Jacob Thomas is <b>Research Assistant Professor at Department of Sociology of the Chinese University of Hong Kong</b>. 
-                        His research interests include how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows, 
-                        how policy and organizational changes structure migrant selectivity and inequality in migratory opportunity, reflexively normative theories about 
-                        how migrant-receiving and -sending states govern migrant flows and migrants and and representation of immigrants and other controversial matters 
-                        in media, images, and texts.  
+                        His research primarily focuses upon how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows. He 
+                        examines how policies and organizational changes in both migrant-receiving and migrant-sending contexts structure migrant selectivity and inequality in migratory opportunity. 
+                        He also draws on empirical research about international migration to critique conventional normative theories of what a fair international 
+                        policy and the impact of acculturation and assimilation on migrant-receiving soiceties.  
+                        Finally, he also assesses how media representations of immigrants and other controversial subjects like abortion, racial misgenation,and 
+                        gun violence influence attitudes toward these subjects.
                         
                         He received his <b>Ph.D in Sociology from the University of California</b>, where he completed dissertation on his dissertation, 
                         The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. He was also a <b>Postdoctoral 
