@@ -8,24 +8,28 @@
                 <div class="experience">
 <p>
     <h3>Jacob's Teaching Experience and Philosophy</h3>
-                    Between Beijing Foreign Studies University, UCLA, and CUHK, Jacob has taught a diverse range of students in
-terms of age, culture, ethnicity, and class in distinct institutional contexts. My general teaching objectives
-are to have his students 1) connect what they learn in class to what they observe in society, 2) acquire tacit
-knowledge through regular exercises in research methods, and 3) cultivate creative life-long habits of
-educating the self and society throughout their personal and professional life. He succeeds in these objectives
-whenever his students respectively describe observing examples of what he has taught them, become more
+                     <li> Between Beijing Foreign Studies University, UCLA, and CUHK, Jacob has taught a diverse range of students in
+terms of age, culture, ethnicity, and class in distinct institutional contexts. </li>
+   
+        <li>  My general teaching objectives are to have his students:</li>
+   <li> 1) connect what they learn in class to what they observe in society, </li>
+    <li>2) acquire tacit knowledge through regular exercises in research methods, and  </li>
+     <li> 3) cultivate creative life-long habits of
+educating the self and society throughout their personal and professional life. </li>
+    <li>He succeeds in these objectives whenever his students respectively describe observing examples of what he has taught them, become more
 confident and resourceful in drawing upon the methods he introduced to them, and teach him or inspire him
-with new research ideas. 
+with new research ideas. </li>
+    
     </p>
                     <h3>Research Assistant Professor</h3>
                     <div class="flexbox-entry">
                         <div class="entry">
-                        <p class="date-endpoints">Spring 2022 - Present</p>
+                        <p class="date-endpoints">Spring 2022 and Spring 2023 </p>
                         <p>Qualitative Research Methods, the Chinese University of Hong Kong Department of 
                         Sociology</p>
                         </div>
  <div class="entry">
-                        <p class="date-endpoints">Spring 2022 - Present</p>
+                        <p class="date-endpoints">Fall 2023 </p>
                         <p>Sociology and Modernity in the Age of Generative Artificial Intelligence, 
                             the Chinese University of Hong Kong Department of 
                         Sociology</p>
