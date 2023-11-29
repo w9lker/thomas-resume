@@ -176,8 +176,8 @@
                                     </div>
                                     <div class="images-stocked" style="width:50%;">
                                         <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                        <img src="..\assets\distrib_canadian.jpg">
+                                        <img src="..\assets\percent_austr_immig.jpg">
                                     </div>
                                 </div>
                                 <li>
