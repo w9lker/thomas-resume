@@ -105,10 +105,17 @@ with new research ideas. </li>
                 </div>
             </div>
         </div>
-        
     </body>
 </template>
 <style scoped>
+    .vertical-line{
+        border-left: solid black;
+        background-color: black;
+    }
+    .extra-image{
+        display:flex;
+        justify-content: space-around;
+    }
     .entry{
         max-width:400px;
     }
