@@ -34,7 +34,7 @@ window.onscroll = () => {
 
 window.addEventListener("load", (event) => {
   console.log("ready");
-  document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
+  // document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
   console.log(document.getElementById("CV"));
   navbar = document.getElementById("nav");
   console.log(navbar)
