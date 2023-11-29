@@ -96,7 +96,7 @@ with new research ideas. </li>
                     <h3>Foreign Expert Instructor for Graduate Students at Beijing Foreign Studies University</h3>
                     <div class="flexbox-entry">
                         <div class="entry">
-                        <p class="date-endpoints">Not Available</p>
+                        <p class="date-endpoints">Fall 2012 and Spring 2013</p>
                         <p>Academic and Professional Writing, The Immigrant Cultures of the United States,
                             European Cultures and Societies
                         </p>
