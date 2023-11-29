@@ -13,6 +13,13 @@
                         <p>Qualitative Research Methods, the Chinese University of Hong Kong Department of 
                         Sociology</p>
                         </div>
+ <div class="entry">
+                        <p class="date-endpoints">Spring 2022 - Present</p>
+                        <p>Sociology and Modernity in the Age of Generative Artificial Intelligence, 
+                            the Chinese University of Hong Kong Department of 
+                        Sociology</p>
+                        </div>
+                        
                     </div>  
                 </div>
                 <div class="experience">
@@ -69,8 +76,9 @@
                         </div>
                     </div>
                 </div>
+                
                 <div class="experience">
-                    <h3>Instructor for Graduate Students at Beijing Foreign Studies University</h3>
+                    <h3>Foreign Expert Instructor for Graduate Students at Beijing Foreign Studies University</h3>
                     <div class="flexbox-entry">
                         <div class="entry">
                         <p class="date-endpoints">Not Available</p>
