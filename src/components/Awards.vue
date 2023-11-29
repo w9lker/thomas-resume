@@ -29,7 +29,8 @@
                             American Sociological Association, International Migration Section</li>
                             <li>Graduate Student Fellowship <span>($6000)</span>, <b>2020</b>, UCLA Department of Fellowship</li>
                             <li>Institute for American Cultures Research Grant <span>($1000)</span>, <b>2020</b>, UCLA Institute for American Cultures Executive Committee</li>
-                            <li>Hiroshi Wagatsuma Memorial Fellowship <span>($5000)</span>, <b>2020</b>, UCLA Asia Pacific Center</li>
+                            <li>Population Association of America Annual Meeting 2018, Migration, Immigration, Geographic Mobility Poster Session, Prize Awarded for Poster “Who Does a Government Perceive as Immigrants Before They Even Migrate?”</li>
+                             <li>Hiroshi Wagatsuma Memorial Fellowship <span>($5000)</span>, <b>2020</b>, UCLA Asia Pacific Center</li>
                             <li>UCLA 5th Year Fellowship <span>($24000)</span>, 2018-2019, UCLA Graduate Division</li>
                             <li>Institute for Humane Studies Ph.D Fellowships <span>($4000 each, four)</span>, <b>2016-2019</b>, Institute for Humane Studies</li>
                             <li>China Confucius Studies Ph.D Research Fellowship <span>($8000)</span>, <b>Fall 2018</b>, China Scholarship Council</li>
