@@ -76,6 +76,8 @@
         color:black;
     }
     .caption-content{
+        bottom: 8px;
+        left: 16px;
         position: absolute;
         width:400px;
     }
