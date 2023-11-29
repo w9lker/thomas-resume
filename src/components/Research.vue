@@ -101,8 +101,12 @@
                         </div>
                     </div>
                     <div class="research-listing-content">
-                        <div class="iframe-container">
+                        <!-- <div class="iframe-container">
                             <iframe id="iframe" src="https://www.hkemigrationproject.space/" style="width: 100%; height:500px;border:3px solid black;display:block;top:200px;"></iframe>
+                        </div> -->
+                        <div class="upper-images">
+                            <img src="..\assets\affinity_race.jpg" width="45%">
+                            <img src="..\assets\affinity_religion.jpg" width="45%">
                         </div>
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
@@ -130,14 +134,52 @@
                                 <li>
                                     <b>Thomas, Jacob.</b> 2021. <i>“From local control to remote control: an excavation of international mobility constraints.”</i> Theory and Society 50(1): 33-64. 
                                 </li>
+                                <div class="paper">
+                                    <div class="paper-text">
+                                        <p>From 1924 to 1989, the United States shifted from a system of entry point control to 
+                                        remote control, effectively transitioning to a period of very low migration era. 
+                                        The new mode of remote control 1) brought more order and precision to the process 
+                                        of individually evaluating prospective visitors; 2) enabling states to select and 
+                                        defined authorized migrants according to their migratory purpose, and 3) reduced contact 
+                                        between residents in migrant-receiving and prospective migrants in migrant-sending societies. 
+                                        High migration returned after 1989, even as the system of remote control persisted.
+                                        </p>
+                                    </div>
+                                    <img src="..\assets\local_remote.jpg" width="50%">
+                                </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2020. <i>“When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
                                     Travel Opportunities.”</i> International Migration 58(2): 80-97. 
                                 </li>
+                                <div class="paper">
+                                    <div class="paper-text">
+                                        <p>Citizens of politically free societies can travel to fewer other societies without a 
+                                            visa than those in societies with little or no political freedom. Those in highly unequal 
+                                            societies can travel to more societies without a visa than those societies with more equality.
+                                        </p>
+                                    </div>
+                                    <img src="..\assets\political_freedom.jpg" width="35%">
+                                    <img src="..\assets\political_freedom_2.jpg" width="35%">
+                                </div>
                                 <li>
                                  <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
                                 Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
                                 </li>
+                                <div class="paper">
+                                    <div class="paper-text">
+                                        <p>mmigration officers in both Canada and Australia began to ethnically and racially 
+                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
+                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
+                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
+                                        rose above that of prospective White immigrants.
+                                        </p>
+                                    </div>
+                                    <div class="images-stocked" style="width:50%;">
+                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                    </div>
+                                </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
                                     Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?”</i> Southern California 
@@ -312,6 +354,30 @@
     </body>
 </template>
 <style scoped>
+    .images-stocked{
+        display:flex;
+        flex-direction: column;
+    }
+    .paper-text{
+        border-right:1px solid black;
+        display:flex;
+        justify-content: center;
+        align-items:center
+    }
+    .paper{
+        margin-top:50px;
+        margin-bottom:50px;
+        display:flex;
+        justify-content:space-between;
+    }
+    .upper-images img{
+        /* border: 2px solid black  */
+    }
+    .upper-images{
+        margin-bottom:50px;
+        display:flex;
+        justify-content: space-between;
+    }
     .iframe-container{
         margin-bottom:40px;
     }
