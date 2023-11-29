@@ -7,8 +7,9 @@
             <div class="teaching-exp">
                 <div class="experience">
 <p>
+    <h3>Jacob's Teaching Experience and Philosophy</h3>
                     Between Beijing Foreign Studies University, UCLA, and CUHK, Jacob has taught a diverse range of students in
-terms of age, culture, ethnicity, and class in distinct institutional contexts.HisMy general teaching objectives
+terms of age, culture, ethnicity, and class in distinct institutional contexts. My general teaching objectives
 are to have his students 1) connect what they learn in class to what they observe in society, 2) acquire tacit
 knowledge through regular exercises in research methods, and 3) cultivate creative life-long habits of
 educating the self and society throughout their personal and professional life. He succeeds in these objectives
