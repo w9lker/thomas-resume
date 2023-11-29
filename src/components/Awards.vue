@@ -34,7 +34,7 @@ Context of Rapid and Sudden Social Change”</li>
                         <li>Foreign Language Area Studies Fellowships to Study Chinese in China and U.S. <span>($8,000-15,000 each, four)</span>, 
                         <b>2017-2018</b> and <b>2014-2015</b> Academic Years and <b>Summer 2015</b> and <b>2017</b>, UCLA Asia Pacific Center, U.S. Department of Education</li>
                         <li>Boren National Security Fellowship <span>($23900)</span> for Mandarin study at Peking University & Beijing Cultural and Language University,
-                        <b>2015-2016</b>, Institute for International Education</li
+                        <b>2015-2016</b>, Institute for International Education</li>
                         <li>UCLA Graduate Summer Research Mentorship Fellowship <span>($6000 each, two)</span>, <b>2014 and 2015</b>, Graduate Division</li>
                         <li>University of Chicago</li>
                         <li>University Un-endowed Scholarship for M.A. Program in Social Sciences <span>($15000)</span>, <b>2011-2012</b> 
