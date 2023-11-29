@@ -28,14 +28,15 @@ with new research ideas. </li>
                         <p>Qualitative Research Methods, the Chinese University of Hong Kong Department of 
                         Sociology</p>
                         </div>
- <div class="entry">
+                    </div>  
+                    <div class="flexbox-entry">
+                        <div class="entry">
                         <p class="date-endpoints">Fall 2023 </p>
                         <p>Sociology and Modernity in the Age of Generative Artificial Intelligence, 
                             the Chinese University of Hong Kong Department of 
                         Sociology</p>
                         </div>
-                        
-                    </div>  
+                    </div>
                 </div>
                 <div class="experience">
                     <h3>Instructor at UCLA</h3>
@@ -45,6 +46,11 @@ with new research ideas. </li>
                         <p>Law and Society, University of California, Los Angeles, Department of Sociology</p>
                         </div>
                     </div>  
+                    <div class="extra-image">
+                        <img src="../assets/law_and_soc_img_1.jpg" width="45%">
+                        <div class="vertical-line"></div>
+                        <img src="../assets/law_society_2.png" width="45%">
+                    </div>
                 </div>
                 <div class="experience">
                     <h3>Teaching Assistant for Undergraduate Students at UCLA</h3>
