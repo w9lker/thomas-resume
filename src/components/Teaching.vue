@@ -6,6 +6,16 @@
         <div class="wrapper">
             <div class="teaching-exp">
                 <div class="experience">
+<p>
+                    Between Beijing Foreign Studies University, UCLA, and CUHK, Jacob has taught a diverse range of students in
+terms of age, culture, ethnicity, and class in distinct institutional contexts.HisMy general teaching objectives
+are to have his students 1) connect what they learn in class to what they observe in society, 2) acquire tacit
+knowledge through regular exercises in research methods, and 3) cultivate creative life-long habits of
+educating the self and society throughout their personal and professional life. He succeeds in these objectives
+whenever his students respectively describe observing examples of what he has taught them, become more
+confident and resourceful in drawing upon the methods he introduced to them, and teach him or inspire him
+with new research ideas. 
+    </p>
                     <h3>Research Assistant Professor</h3>
                     <div class="flexbox-entry">
                         <div class="entry">
