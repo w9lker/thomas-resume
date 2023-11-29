@@ -8,6 +8,19 @@
                 <h1>Awards, Grants and Honors</h1>
                 <div class="awards">
                     <ul>
+                                    <li>Chinese University of Hong Kong</li>
+                        <li>2022-2023 General Research Fund Grant ($78,600) for study “Who Realizes Their Online Intentions
+To Emigrate? What Distinguishes Emigrants from Potential Emigrants in the Context of Rapid and
+Sudden Social Change.” Hong Kong University Grant Committee (GRF-funded survey project
+website: www.hkemigrationproject.space )</li>
+                       <li> Direct Grant ($6,500), 2023, Chinese University of Hong Kong for study “Does What We Can See
+Matter for American Opinion About Gun Regulation? Experimental Impact of Images of a Bleeding
+Dead Child and a ‘Good Guy With a Gun’”</li>
+<li>Direct Grant ($6,500), 2022, Chinese University of Hong Kong for study “Who Realizes Their
+Online Intentions To Emigrate? What Distinguishes Emigrants from Potential Emigrants in the
+Context of Rapid and Sudden Social Change”</li>
+                        
+                          <li>University of California Los Angeles</li>
                         <li>Aristide Zolberg Distinguished Student Scholar Award, Honorable Mention, <b>2020</b>,
                             American Sociological Association, International Migration Section</li>
                         <li>Graduate Student Fellowship <span>($6000)</span>, <b>2020</b>, UCLA Department of Fellowship</li>
@@ -21,10 +34,12 @@
                         <li>Foreign Language Area Studies Fellowships to Study Chinese in China and U.S. <span>($8,000-15,000 each, four)</span>, 
                         <b>2017-2018</b> and <b>2014-2015</b> Academic Years and <b>Summer 2015</b> and <b>2017</b>, UCLA Asia Pacific Center, U.S. Department of Education</li>
                         <li>Boren National Security Fellowship <span>($23900)</span> for Mandarin study at Peking University & Beijing Cultural and Language University,
-                        <b>2015-2016</b>, Institute for International Education</li>
+                        <b>2015-2016</b>, Institute for International Education</li
                         <li>UCLA Graduate Summer Research Mentorship Fellowship <span>($6000 each, two)</span>, <b>2014 and 2015</b>, Graduate Division</li>
+                        <li>University of Chicago</li>
                         <li>University Un-endowed Scholarship for M.A. Program in Social Sciences <span>($15000)</span>, <b>2011-2012</b> 
                         Masters of Arts Program in Social Sciences, University of Chicago</li>
+                          <li>University of California, Berkeley </li>
                         <li>Highest Honors in Interdisciplinary Studies Field Major and Distinction in General Scholarship,
                         Interdisciplinary Studies Field Major Program, UC Berkeley’s College of Letters and Sciences</li>
                     </ul>
