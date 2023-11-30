@@ -145,7 +145,7 @@
                                         High migration returned after 1989, even as the system of remote control persisted.
                                         </p>
                                     </div>
-                                    <img src="..\assets\local_remote.jpg" width="50%">
+                                    <!-- <img src="..\assets\local_remote.jpg" width="50%"> -->
                                 </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2020. <i>“When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
@@ -174,11 +174,11 @@
                                         rose above that of prospective White immigrants.
                                         </p>
                                     </div>
-                                    <div class="images-stocked" style="width:50%;">
+                                    <!-- <div class="images-stocked" style="width:50%;">
                                         <img src="..\assets\bureacratic_amenability.jpg">
                                         <img src="..\assets\distrib_canadian.jpg">
                                         <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
