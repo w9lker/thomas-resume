@@ -79,9 +79,7 @@
                             <ul>
                                 <li>
                                     <b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript revised
-                                    and resubmitted in Cambridge University Press and under review at Oxford University Press and Stanford University Press. 
-                                    <b>Thomas, Jacob.</b> <i>“What Ties Individuals to a Society?: How Immobility-Mobility Capital Stratifies 
-                                    Legal Movement from China to the United States.”</i> Revised and resubmitted to American Journal of Sociology. 
+                                    and resubmitted in Cambridge University Press
                                 </li>
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“How Families Prevent Migration.”</i> Under review in International Migration Review. 
