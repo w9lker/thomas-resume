@@ -76,7 +76,7 @@
         color:black;
     }
     .caption-content{
-        bottom: 8px;
+        bottom: -120px;
         left: 16px;
         position: absolute;
         width:400px;

@@ -102,10 +102,10 @@
                         <!-- <div class="iframe-container">
                             <iframe id="iframe" src="https://www.hkemigrationproject.space/" style="width: 100%; height:500px;border:3px solid black;display:block;top:200px;"></iframe>
                         </div> -->
-                        <div class="upper-images">
+                        <!-- <div class="upper-images">
                             <img src="..\assets\affinity_race.jpg" width="45%">
                             <img src="..\assets\affinity_religion.jpg" width="45%">
-                        </div>
+                        </div> -->
                         <div class="research-listing-content-description description-two wrapper">
                             <div class="description-text">
                                 <p>The primary focus of <b>Jacob Thomas'</b> research engages in both comparative and international analysis of
@@ -143,7 +143,7 @@
                                         High migration returned after 1989, even as the system of remote control persisted.
                                         </p>
                                     </div>
-                                    <!-- <img src="..\assets\local_remote.jpg" width="50%"> -->
+                                    <img src="..\assets\local_remote.jpg" width="50%">
                                 </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2020. <i>“When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
@@ -172,11 +172,11 @@
                                         rose above that of prospective White immigrants.
                                         </p>
                                     </div>
-                                    <!-- <div class="images-stocked" style="width:50%;">
+                                    <div class="images-stocked" style="width:50%;">
                                         <img src="..\assets\bureacratic_amenability.jpg">
                                         <img src="..\assets\distrib_canadian.jpg">
                                         <img src="..\assets\percent_austr_immig.jpg">
-                                    </div> -->
+                                    </div>
                                 </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
@@ -287,7 +287,7 @@
                                     acculturation into migrant-receiving society that helps them confront their pathologies.  
                                     <span></span> </p>
                             </div>
-                            <img src="../assets/soc_pov_immig_2.jpg" width="600px" height="auto">
+                            <img src="../assets/soc_pov_immig_2.jpg" width="600px" height="300px">
                         </div>
                         <div class="wrapper">
                             <ul>
