@@ -45,7 +45,7 @@
                         <ul>
                             <li><a href="#section_1">Might-have-been Immigrants</a></li>
                             <li><a href="#section_2">Impact of Migration Policies</a></li>
-                            <li><a href="#section_3">Median Representation of Migrants</a></li>
+                            <li><a href="#section_3">Media Representation of Migrants</a></li>
                             <li><a href="#section_4">Normative Theories about Migration</a></li>
                             <li><a href="#section_5">Public Opinion on Contentious Issues</a></li>
                         </ul>
@@ -165,7 +165,7 @@
                                 </li>
                                 <div class="paper">
                                     <div class="paper-text">
-                                        <p>mmigration officers in both Canada and Australia began to ethnically and racially 
+                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
                                         diversify immigration in terms of who they chose to admit not after admitting immigrants 
                                         on the basis of their race became illegal but only after they shifted to a points system, they could no 
                                         longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
