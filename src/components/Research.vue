@@ -78,15 +78,20 @@
                         <div class="wrapper">
                             <ul>
                                 <li>
-                                    <b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript revised
-                                    and resubmitted in Cambridge University Press
+                                    <b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript has 
+                                    received a publishing contract with Cambridge University Press.
                                 </li>
+                                <li><div>
+                                    <p><b>Thomas, Jacob Richard.</b> <i>"Disenchanted With the Immigrant Dream: The Sociological Formation of Ex-Immigrant Subjectivity."</i> 
+                                     European Journal of Sociology/Archives Européennes de Sociologie (2024): 1-40.</p>
+                                     <img class="no_text_img" src="../assets/disenchantment_with_immigrant_dream_chart.jpg" width="600px" height="auto">
+                                </div></li>
+                                <li><div>
+                                    <p><b>Thomas, Jacob.</b> <i>“The Gendered Ways Familial Ties Reduce International Migration and Mobility.” </i> (Forthcoming article in International Migration)</p>
+                                    <img class="no_text_img" src="../assets/family_impact_international_migration_chart.jpg" width="600px" height="auto">
+                                </div></li>
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“How Families Prevent Migration.”</i> Under review in International Migration Review. 
-                                </li>
-                                <li>
-                                    <b>Thomas, Jacob.</b> Forthcoming. <i>“Disenchanted With the Immigrant Dream: The Sociological Formation of 
-                                    Ex-Immigrant Subjectivity.”</i> European Journal of Sociology.
                                 </li>
                             </ul>
                         </div>
@@ -244,10 +249,15 @@
                         </div>
                         <div class="wrapper">
                             <ul>
-                                <li>
+                                <li><div>
                                     <b>Thomas, Jacob.</b> <i>“Visual Art as a Channel and Embodiment of Symbolic Interaction Between Migrants 
-                                    and the Native-born.”</i> Revised and resubmitted to Symbolic Interaction.
-                                </li>
+                                    and the Native-born.”</i> (Forthcoming paper in Symbolic Interaction)
+                                    <div class="images-stocked-horizontally no_text_img">
+                                        <img src="../assets/visual_art_as_channel_embodiment_picture_0.jpg" width="400px" height="auto">
+                                        <img src="../assets/visual_art_as_channel_embodiment_picture_1.jpg" width="300px" height="auto">
+                                        <img src="../assets/visual_art_as_channel_embodiment_picture_2.jpg" width="400px" height="auto">
+                                    </div>
+                                </div></li>
                                 <li>    
                                     <b>Thomas, Jacob.</b> “From <i>‘Illegal’ to ‘Undocumented’—Anti-Immigrant Reactance toward a Ban of a Term Among Media 
                                     Producers and Consumers.”</i> Under review in Journal of Communication. 
@@ -352,9 +362,22 @@
     </body>
 </template>
 <style scoped>
+    .no_text_img{
+        display:block;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
     .images-stocked{
         display:flex;
         flex-direction: column;
+    }
+    .images-stocked-horizontally{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
     }
     .paper-text{
         border-right:1px solid black;
@@ -367,9 +390,6 @@
         margin-bottom:50px;
         display:flex;
         justify-content:space-between;
-    }
-    .upper-images img{
-        /* border: 2px solid black  */
     }
     .upper-images{
         margin-bottom:50px;
