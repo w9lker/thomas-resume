@@ -77,11 +77,19 @@
                         </div>
                         <div class="wrapper">
                             <ul>
-                                <li>
-                                    <b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript has 
-                                    received a publishing contract with Cambridge University Press.
-                                </li>
                                 <li><div>
+                                    <h2>Books</h2>
+                                    <p><b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript has 
+                                    received a publishing contract with Cambridge University Press.</p>
+                                    <div class="images-stocked-horizontally no_text_img">
+                                        <img src="../assets/denial_deter_diagram_0.jpg" width="380px" height="auto">
+                                        <img src="../assets/denial_deter_diagram_1.jpg" width="380px" height="auto">
+                                        <img src="../assets/denial_deter_diagram_2.jpg" width="380px" height="auto">
+                                    </div>
+                                </div></li>
+                                
+                                <li><div>
+                                    <h2>Published or Forthcoming Peer reviewed Articles</h2>
                                     <p><b>Thomas, Jacob Richard.</b> <i>"Disenchanted With the Immigrant Dream: The Sociological Formation of Ex-Immigrant Subjectivity."</i> 
                                      European Journal of Sociology/Archives Européennes de Sociologie (2024): 1-40.</p>
                                      <img class="no_text_img" src="../assets/disenchantment_with_immigrant_dream_chart.jpg" width="600px" height="auto">
