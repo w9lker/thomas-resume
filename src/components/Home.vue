@@ -1,5 +1,6 @@
 <template>
     <head>
+        <meta name="google-site-verification" content="fKQtY9HuzEjunquEyrMdubf3uSCu-oJuJf5-Y6nv7uI" />
     </head>
     <body>
         <div class="home-intro-images">

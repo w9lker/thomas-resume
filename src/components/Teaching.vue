@@ -1,4 +1,7 @@
 <template>
+    <head>
+        <meta name="google-site-verification" content="fKQtY9HuzEjunquEyrMdubf3uSCu-oJuJf5-Y6nv7uI" />
+    </head>
     <body>
         <div class="header-image">
             <img src="../assets/lecture_hall.jpg" class="" alt="'Lecture Lecture' by cogdogblog is marked with CC0 1.0.">
