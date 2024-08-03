@@ -71,12 +71,12 @@ const currentView = computed(() => {
                 <h1>Jacob Thomas</h1>
               </div>
               <div class = "links">
-                <a id="Home" href="#/">Home</a>
-                <a id="Research" href="#/research">Research</a>
-                <a id="Teaching" href="#/teaching">Teaching</a>
-                <a id="Awards" href="#/awards">Awards</a>
+                <a id="Home" href="/">Home</a>
+                <a id="Research" href="/research">Research</a>
+                <a id="Teaching" href="/teaching">Teaching</a>
+                <a id="Awards" href="/awards">Awards</a>
                 <a id="CV" href="CV-Thomas.pdf">CV</a>
-                <a id="AboutMe" href="#/aboutme">About Me</a>
+                <a id="AboutMe" href="/aboutme">About Me</a>
             </div>
           </div>
         </div>
