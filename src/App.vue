@@ -1,57 +1,31 @@
 <script setup>
 import { ref, computed } from 'vue'
-import Home from './components/Home.vue'
-import Research from './components/Research.vue'
-import Teaching from './components/Teaching.vue'
-import Awards from './components/Awards.vue'
-import AboutMe from './components/AboutMe.vue'
+import { RouterView, RouterLink} from 'vue-router'
 
-const routes = {
-  '/': Home,
-  '/research': Research,
-  '/teaching': Teaching,
-  '/awards': Awards,
-  '/aboutme':AboutMe,
-}
-const map = {
-  '/': 'Home',
-  '/research': 'Research',
-  '/teaching': 'Teaching',
-  '/awards': 'Awards',
-  '/aboutme':'AboutMe',
-}
+import { watch } from "vue";
+import { useRoute } from "vue-router";
 
-const currentPath = ref(window.location.hash)
-var navbar = null;
-
-window.onscroll = () => {
-    if (window.scrollY > 100) {
-        navbar.classList.add('nav-active');
-    } else {
-        navbar.classList.remove('nav-active');
-    }
+const route = useRoute();
+const path_to_component = {
+  "/": "Home",
+  "/research": "Research",
+  "/teaching": "Teaching",
+  "/awards": "Awards",
+  "/aboutme": "AboutMe",
 };
+const current_active = ref("Home");
+watch(
+  () => route.fullPath,
+  async () => {
+    // cancel all the styles for the current_active element
+    document.getElementById(current_active.value).style.textDecoration = "none";
 
-window.addEventListener("load", (event) => {
-  console.log("ready");
-  // document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
-  console.log(document.getElementById("CV"));
-  navbar = document.getElementById("nav");
-  console.log(navbar)
-});
-window.addEventListener('hashchange', () => {
-  if (currentPath.value.slice(1) in map){
-    document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="none";
+    // get the current elements and underline it
+    current_active.value = path_to_component[route.fullPath];
+    document.getElementById(current_active.value).style.textDecoration = "underline white solid 5px";
+
   }
-  currentPath.value = window.location.hash
-  console.log(document.getElementById(map[currentPath.value.slice(1) || '/']))
-  if (currentPath.value.slice(1) in map){
-    document.getElementById(map[currentPath.value.slice(1) || '/']).style.textDecoration="underline white solid 5px";
-  }
-})
-const currentView = computed(() => {
-  return routes[currentPath.value.slice(1) || '/'] || Research
-})
+);
 
 </script>
 
@@ -71,17 +45,17 @@ const currentView = computed(() => {
                 <h1>Jacob Thomas</h1>
               </div>
               <div class = "links">
-                <a id="Home" href="/">Home</a>
-                <a id="Research" href="/research">Research</a>
-                <a id="Teaching" href="/teaching">Teaching</a>
-                <a id="Awards" href="/awards">Awards</a>
+                <RouterLink to="/" id="Home">Home</RouterLink>
+                <RouterLink to="/research" id="Research">Research</RouterLink>
+                <RouterLink to="/teaching" id="Teaching">Teaching</RouterLink>
+                <RouterLink to="/awards" id="Awards">Awards</RouterLink>
                 <a id="CV" href="CV-Thomas.pdf">CV</a>
-                <a id="AboutMe" href="/aboutme">About Me</a>
+                <RouterLink to="/aboutme" id="AboutMe">About Me</RouterLink>
             </div>
           </div>
         </div>
         <div class="contents">
-          <component :is="currentView" />
+          <RouterView />
         </div>
       </div>
       <footer class="footer">
