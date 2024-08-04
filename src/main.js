@@ -10,13 +10,26 @@ import Research from './components/Research.vue'
 import Teaching from './components/Teaching.vue'
 import Awards from './components/Awards.vue'
 import AboutMe from './components/AboutMe.vue'
+import PrincetonConfirm from './components/PrincetonConfirm.vue'
+import Outline from './Outline.vue'
+
+import { createHead } from '@unhead/vue'
+
+
+
 
 const routes = [
-  { path: '/', component: Home },
-  { path: '/research', component: Research },
-  { path: '/teaching', component: Teaching },
-  { path : '/awards', component: Awards},
-  { path: '/aboutme', component: AboutMe },
+    { path: '/', component: Outline,
+        children: [
+            { path: '/', component: Home },
+            { path: '/research', component: Research },
+            { path: '/teaching', component: Teaching },
+            { path : '/awards', component: Awards},
+            { path: '/aboutme', component: AboutMe },
+        ]
+    },
+    { path: '/princeton_confirm', component: PrincetonConfirm},
+  
 ]
 
 const router = createRouter({
@@ -26,5 +39,9 @@ const router = createRouter({
 
 // Vue.use(VueSmoothScroll)
 const app =createApp(App);
+
 app.use(router)
+const head = createHead()
+app.use(head)
+
 app.mount('#app')

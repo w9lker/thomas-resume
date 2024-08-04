@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
+    "@unhead/vue": "^1.9.16",
     "bootstrap": "^5.3.2",
+    "pdf-viewer-vue": "^0.2.7",
     "vue": "^3.3.4",
+    "vue-meta": "^2.4.0",
     "vue-router": "^4.0.13",
     "vue3-smooth-scroll": "^0.8.1"
   },
