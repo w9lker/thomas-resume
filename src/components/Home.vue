@@ -76,8 +76,8 @@
                     </div>
                 </div>
                 <div class="about-me-text">
-                    <p>Jacob Thomas is <b>Assistant Professor of Sociology at Corvinus University of Budapest in Europe</b> and <b>Research Fellow at Princeton University's Center
-                        for Migration and Development</b> . He was previously a Research Assistant Professor at Department of Sociology of the Chinese University of Hong Kong.
+                    <p>Jacob Thomas is <b>Assistant Professor of Sociology at Corvinus University of Budapest in Europe</b> and <b><a href="/princeton_confirm">Research Fellow at Princeton University's Center
+                        for Migration and Development</a></b> . He was previously a Research Assistant Professor at Department of Sociology of the Chinese University of Hong Kong.
                         His research primarily focuses upon how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows. He 
                         examines how policies and organizational changes in both migrant-receiving and migrant-sending contexts structure migrant selectivity and inequality in migratory opportunity. 
                         He also draws on empirical research about international migration to critique conventional normative theories of what a fair international 
