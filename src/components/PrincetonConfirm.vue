@@ -1,4 +1,4 @@
-<script>
+<script setup>
     import { useHead } from '@unhead/vue'
 
     useHead({
@@ -16,9 +16,6 @@
     })
 </script>
 <template>
-    <head>
-        <title id="PrincetonConfirm">Princeton Confirmation</title>
-    </head>
     <div height="4000vh">
         <iframe
         src="princeton_conf.pdf"
