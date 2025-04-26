@@ -112,24 +112,7 @@
                                     <div class="paper-text">
                                         
                          
-                                
-                                  <li>
-                                 <b>Thomas, Jacob.</b> 2025. <i>“Thomas, Jacob Richard. "The Gendered Ways Families Reduce International Migration and Mobility.” </i>International Migration Review.  (2025): 01979183251329050.s.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Families oppose the migration of their female children more than their male children due to parents' filial piety and paternalistic influence over their child's career, educational and marriage choices and due parent’s (1) concerns for the child’s safety and cultural-linguistic survival, (2) socioeconomic constraints and intergenerational resource
-dependence, and (3) extrafamilial pressures to conform to social norms, all further bolstered by filial piety of children toward parents and the strong paternalistic influence parents exercise over theirchildren’s marital, educational, and career choices. 
-                                            
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
+                    
                                     
                                 
                                 </li>
@@ -199,52 +182,10 @@ dependence, and (3) extrafamilial pressures to conform to social norms, all furt
                                 </div>
                                 <li>
 
-
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
-                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
-                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
-                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
-                                        rose above that of prospective White immigrants.
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
-
                                     
                             
 
-                                
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
-                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
-                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
-                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
-                                        rose above that of prospective White immigrants.
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
+                             
                                     <b>Thomas, Jacob.</b> 2021. <i>“From local control to remote control: an excavation of international mobility constraints.”</i> Theory and Society 50(1): 33-64. 
                                 </li>
                                 <div class="paper">
