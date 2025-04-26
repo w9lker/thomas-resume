@@ -34,14 +34,15 @@
                         (e.g., Australia, Canada, China, and the United States) with variety of methods, as well as large-N quantitative macro-analyses of 
                         all countries throughout decades of migratoin history. 
                         
-                        With the support of a $67000 USD research grant he is currently surveying the population
+                        With the support of a $76,000+ USD research grant he is currently surveying the population
                         of Hong Kong to better understand how those who emigrated are different those who considered/thought about migrating but have not yet done so
                         after the China's government imposed a National Security Law that criminalized all protest against China's government and required 
-                        education to instill positive views in all school children toward China's government. 
-                        He also assess how the way the <b>media represents </b> of immigrants and other controversial issues structures public attitudes 
-                        toward social problems and phenomenon like abortion, gun control, and racial-ethnic prejudice in the United States.
-                        He has developed several critical normative theories about international migration based upon extensive knowledge 
-                        of positivist, empirical research about international migration.
+                        education to instill positive views in all school children toward China's government. This book will demonstrate how what distinguishes how these two groups respond to the sudden political changes differently is 1) their sense of belonging to an old “Hong Kong”, 2) their political ideology, 3) their mental health, 4) their level of political awareness and consciousness, 5) whether they are preparing to have children and their concern about how free the minds of the next generation will be, and 6) specific historical events in Hong Kong that they tend to remember as more traumatizing and triggering to their migration than those who only considered emigrating.
+                        
+                        Jacob has developed several critical normative theories about international migration based upon extensive knowledge 
+                        of positivist, empirical research about international migration. Finally, he also assesses how the way the <b>media represents </b> of immigrants and other controversial issues structures public attitudes 
+                        toward social problems and phenomenon like abortion, gun restriction, and prejudice toward foreigners in the US.
+                        Finally, 
                     </div>
                     <div class="intro-shortcut">
                         <!-- <h4>Main Research Areas</h4> -->
@@ -74,7 +75,8 @@
                                 reasons behind this decision, and how it affects the lives and identities of these individuals and their 
                                 families.  He analyzes the <span>factors</span> that 
                                 lead to these distinct outcomes, such as the <span>legal, economic, social, and cultural</span> barriers and incentives for migration, 
-                                the role of family ties and obligations, and the formation of a sense of belonging and attachment to a society.</p>
+                                the role of family ties and obligations, and the formation of a sense of belonging and attachment to a society.Several chapters have already published as articles
+                                in European Journal of Sociology and International Migration Review. </p>
                             </div>
                             <img src="../assets/diagram-1.png" width="600px" height="auto">
                         </div>
@@ -83,7 +85,7 @@
                                 <li><div>
                                     <h2>Books</h2>
                                     <p><b>Thomas, Jacob</b>. <i>Denial, Deterrence, and Disenchantment: Why Many Never Immigrate.</i> Book manuscript has 
-                                    received a publishing contract with Cambridge University Press.</p>
+                                    received a publishing contract with Cambridge University Press and is forthcoming in 2025.</p>
                                     <div class="images-stocked-horizontally no_text_img">
                                         <img src="../assets/denial_deter_diagram_0.jpg" width="380px" height="auto">
                                         <img src="../assets/denial_deter_diagram_1.jpg" width="380px" height="auto">
@@ -98,11 +100,11 @@
                                      <img class="no_text_img" src="../assets/disenchantment_with_immigrant_dream_chart.jpg" width="600px" height="auto">
                                 </div></li>
                                 <li><div>
-                                    <p><b>Thomas, Jacob.</b> <i>“The Gendered Ways Familial Ties Reduce International Migration and Mobility.” </i> (Forthcoming article in International Migration)</p>
+                                    <p><b>Thomas, Jacob.</b> <i>“The Gendered Ways Familial Ties Reduce International Migration and Mobility.” </i> (Published in International Migration)</p>
                                     <img class="no_text_img" src="../assets/family_impact_international_migration_chart.jpg" width="600px" height="auto">
                                 </div></li>
                                 <li>
-                                    <b>Thomas, Jacob.</b> <i>“How Families Prevent Migration.”</i> Under review in International Migration Review. 
+                                
                                 </li>
                             </ul>
                         </div>
