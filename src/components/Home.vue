@@ -79,7 +79,7 @@
                     <p>Jacob Thomas is <a href="https://www.uni-corvinus.hu/elerhetosegek/jacob-richard-thomas/"><b>Assistant Professor of Sociology at Corvinus University of Budapest in Europe</b></a> and <b><a href="/https://cmd.princeton.edu/people/jacob-richard-thomas">Research Fellow at Princeton University's Center
                         for Migration and Development</a></b> . He was previously a Research Assistant Professor at Department of Sociology of the Chinese University of Hong Kong.
                         His research primarily focuses upon how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows. He 
-                        examines how policies and organizational changes in both migrant-receiving and migrant-sending contexts structure migrant selectivity and inequality in migratory opportunity. 
+                        examines how policies and organizational changes in both migrant-destination and migrant-origin contexts structure migrant selectivity and inequality in migratory opportunity. 
                         He also draws on empirical research about international migration to critique conventional normative theories of what a fair international 
                         policy and the impact of acculturation and assimilation on migrant-receiving soiceties.  
                         Finally, he also assesses how media representations of immigrants and other controversial subjects like abortion, racial misgenation,and 
@@ -91,8 +91,9 @@
                         University of California, Los Angeles, </b>
                         he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
                         from University of California, Berkeley where he studied political science, economics, and cultural anthropology.</b></p><br/>
-                        <p>He has finished a book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
-                        Why a Variety of Potential Emigrants Never Immigrated</i>, based on a multi-thousand 
+                        <p>He has published research articles in numerous international journals, including International Journal of Sociology, European Journal of Sociology, International Political Science Review, 
+                            Theory and Society, International Political Science Review, Symbolic Interaction, International Migration Review, and Chinese Political Science Review, among many others. He has finished a book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
+                        Why a Variety of Potential Emigrants Never Immigrated</i>, (Forthcoming with Cambridge University Press in 2025) based on a multi-thousand 
                         person survey he conducted in Mainland China of three distinct types of non-migrants: those denied non-immigrant (temporary) visas,
                         those deterred from applying for visas due to an interaction of socio-cultural forces and government policy, and  those that had planned to 
                         immigrate but who become disenchanted with the immigration dream after arrival and return (ex-immigrants)</p>
