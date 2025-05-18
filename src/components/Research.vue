@@ -97,40 +97,13 @@
                                     <h2>Published or Forthcoming Peer reviewed Articles</h2>
                                     <p><b>Thomas, Jacob Richard.</b> <i>"Disenchanted With the Immigrant Dream: The Sociological Formation of Ex-Immigrant Subjectivity."</i> 
                                      European Journal of Sociology/Archives Européennes de Sociologie (2024): 1-40.</p>
- <div class="paper">
-                                    <div class="paper-text">
-                                    This article shows how many aspiring immigrants give up on immgirating disappointments, the language barrier, cultural alienation, racial-ethnic discrimination, intersectional-gender issues, barriers to upward socioeconomic mobility, and/or restrictive immigration policies interact with each other to constitute ex-immigrant subjectivity. 
-
-                                    
                                      <img class="no_text_img" src="../assets/disenchantment_with_immigrant_dream_chart.jpg" width="600px" height="auto">
                                 </div></li>
-     
-  <li>
-                                 <b>Thomas, Jacob.</b> 2025. <i>“Thomas, Jacob Richard. "The Gendered Ways Families Reduce International Migration and Mobility.” </i>International Migration Review.  (2025): 01979183251329050.s.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        
-                         
-                                
-                                  <li>
-                                 <b>Thomas, Jacob.</b> 2025. <i>“Thomas, Jacob Richard. "The Gendered Ways Families Reduce International Migration and Mobility.” </i>International Migration Review.  (2025): 01979183251329050.s.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Families oppose the migration of their female children more than their male children due to parents' filial piety and paternalistic influence over their child's career, educational and marriage choices and due parent’s (1) concerns for the child’s safety and cultural-linguistic survival, (2) socioeconomic constraints and intergenerational resource
-dependence, and (3) extrafamilial pressures to conform to social norms, all further bolstered by filial piety of children toward parents and the strong paternalistic influence parents exercise over theirchildren’s marital, educational, and career choices. 
-                                            
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
+                                <li><div>
+                                    <p><b>Thomas, Jacob.</b> <i>“The Gendered Ways Familial Ties Reduce International Migration and Mobility.” </i> (Published in International Migration)</p>
+                                    <img class="no_text_img" src="../assets/family_impact_international_migration_chart.jpg" width="600px" height="auto">
+                                </div></li>
                                 <li>
-                                    
                                 
                                 </li>
                             </ul>
@@ -175,7 +148,23 @@ dependence, and (3) extrafamilial pressures to conform to social norms, all furt
                         <div class="wrapper">
                             <ul>
 
-                              
+                                <li>
+                                 <b>Thomas, Jacob.</b> 2025. <i>“BThomas, Jacob Richard. "The Gendered Ways Families Reduce International Migration and Mobility.” </i>International Migration Review.  (2025): 01979183251329050.s.                                 
+                                </li>
+                                <div class="paper">
+                                    <div class="paper-text">
+                                        <p>Families oppose the migration of their female children more than their male children due to parents' filial piety and paternalistic influence over their child's career, educational and marriage choices and due parent’s (1) concerns for the child’s safety and cultural-linguistic survival, (2) socioeconomic constraints and intergenerational resource
+dependence, and (3) extrafamilial pressures to conform to social norms, all further bolstered by filial piety of children toward parents and the strong paternalistic influence parents exercise over theirchildren’s marital, educational, and career choices. 
+                                            
+                                        </p>
+                                    </div>
+                                    <div class="images-stocked" style="width:50%;">
+                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                        <img src="..\assets\distrib_canadian.jpg">
+                                        <img src="..\assets\percent_austr_immig.jpg">
+                                    </div>
+                                </div>
+                                <li>
 
                                     
                                 <li>
