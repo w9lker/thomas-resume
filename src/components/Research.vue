@@ -147,92 +147,6 @@
                         </div>
                         <div class="wrapper">
                             <ul>
-
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2025. <i>“BThomas, Jacob Richard. "The Gendered Ways Families Reduce International Migration and Mobility.” </i>International Migration Review.  (2025): 01979183251329050.s.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Families oppose the migration of their female children more than their male children due to parents' filial piety and paternalistic influence over their child's career, educational and marriage choices and due parent’s (1) concerns for the child’s safety and cultural-linguistic survival, (2) socioeconomic constraints and intergenerational resource
-dependence, and (3) extrafamilial pressures to conform to social norms, all further bolstered by filial piety of children toward parents and the strong paternalistic influence parents exercise over theirchildren’s marital, educational, and career choices. 
-                                            
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
-
-                                    
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
-                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
-                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
-                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
-                                        rose above that of prospective White immigrants.
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
-
-
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
-                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
-                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
-                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
-                                        rose above that of prospective White immigrants.
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
-                                <li>
-
-                                    
-                            
-
-                                
-                                <li>
-                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
-                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
-                                </li>
-                                <div class="paper">
-                                    <div class="paper-text">
-                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
-                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
-                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
-                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
-                                        rose above that of prospective White immigrants.
-                                        </p>
-                                    </div>
-                                    <div class="images-stocked" style="width:50%;">
-                                        <img src="..\assets\bureacratic_amenability.jpg">
-                                        <img src="..\assets\distrib_canadian.jpg">
-                                        <img src="..\assets\percent_austr_immig.jpg">
-                                    </div>
-                                </div>
                                 <li>
                                     <b>Thomas, Jacob.</b> 2021. <i>“From local control to remote control: an excavation of international mobility constraints.”</i> Theory and Society 50(1): 33-64. 
                                 </li>
@@ -249,13 +163,7 @@ dependence, and (3) extrafamilial pressures to conform to social norms, all furt
                                     </div>
                                     <img src="..\assets\local_remote.jpg" width="50%">
                                 </div>
-                             
                                 <li>
-                                    <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
-                                    Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?”</i> Southern California 
-                                    Interdisciplinary Law Journal 29: 619-636.
-                                </li>
-                                   <li>
                                     <b>Thomas, Jacob.</b> 2020. <i>“When Political Freedom Does Not Offer Travel Freedom: The Varying Determinants of Visa‐Free 
                                     Travel Opportunities.”</i> International Migration 58(2): 80-97. 
                                 </li>
@@ -269,6 +177,30 @@ dependence, and (3) extrafamilial pressures to conform to social norms, all furt
                                     <img src="..\assets\political_freedom.jpg" width="35%">
                                     <img src="..\assets\political_freedom_2.jpg" width="35%">
                                 </div>
+                                <li>
+                                 <b>Thomas, Jacob.</b> 2023. <i>“Bureaucratic and Organizational Amenability to Racial Diversification: How
+                                Points Systems Replaced White-Only Immigration Policies.” </i>International Journal of Sociology 53(2): 103-131.                                 
+                                </li>
+                                <div class="paper">
+                                    <div class="paper-text">
+                                        <p>Immigration officers in both Canada and Australia began to ethnically and racially 
+                                        diversify immigration in terms of who they chose to admit not after admitting immigrants 
+                                        on the basis of their race became illegal but only after they shifted to a points system, they could no 
+                                        longer attract human-capital rich White immigrants, and the human capital of prospective non-White immigrants
+                                        rose above that of prospective White immigrants.
+                                        </p>
+                                    </div>
+                                    <div class="images-stocked" style="width:50%;">
+                                        <img src="..\assets\bureacratic_amenability.jpg">
+                                        <img src="..\assets\distrib_canadian.jpg">
+                                        <img src="..\assets\percent_austr_immig.jpg">
+                                    </div>
+                                </div>
+                                <li>
+                                    <b>Thomas, Jacob.</b> 2019. <i>“Reflecting upon the Impact of the United States' 2016 Election and Travel Ban: Why Might Fewer
+                                    Foreign Businesspeople, Tourists, Students, and Relatives Be Visiting the United States?”</i> Southern California 
+                                    Interdisciplinary Law Journal 29: 619-636.
+                                </li>
                                 <li>
                                     <b>Thomas, Jacob.</b> <i>“Why a Targeted Travel Ban Mostly Reduced Visitors from Non-Targeted Countries: 
                                     Heterogeneity in Unintended Consequences Across Visitor Origin and Stage of Policy Formation.”</i> Under review
