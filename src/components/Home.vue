@@ -86,8 +86,7 @@
                         gun violence influence attitudes toward these subjects.
                         
                         He received his <b>Ph.D in Sociology from the University of California</b>, where he completed dissertation on his dissertation, 
-                        The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. He was also a <b>Postdoctoral 
-                        Research Associate</b> for the Center On Contemporary China at <b>Princeton University</b> and Peking University. Before receiving his <b>Ph.D at 
+                        The Denied, the Deterred and the Disenchanted: Why a Variety of Potential Emigrants Never Immigrated. Before receiving his <b>Ph.D at 
                         University of California, Los Angeles, </b>
                         he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
                         from University of California, Berkeley where he studied political science, economics, and cultural anthropology.</b></p><br/>
