@@ -81,7 +81,7 @@
                         His research primarily focuses upon how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows. He 
                         examines how policies and organizational changes in both migrant-destination and migrant-origin contexts structure migrant selectivity and inequality in migratory opportunity. 
                         He also draws on empirical research about international migration to critique conventional normative theories of what a fair international 
-                        policy and the impact of acculturation and assimilation on migrant-destination soiceties.  
+                        policy and the impact of acculturation and assimilation on migrant-destination societies.  
                         Finally, he also assesses how media representations of immigrants and other controversial subjects like abortion, racial misgenation,and 
                         gun violence influence attitudes toward these subjects.
                         
@@ -104,17 +104,26 @@
         <!-- <div class="others wrapper">
             <div class="career">
                 <h3>Major Professional Experience</h3>
+
                 <div class="flexbox-entry">
                     <div class="entry">
-                    <p class="date-endpoints">Autumn 2021 - Present</p>
-                    <p>Research Assistant Professor, Corvinus Univeristy of Budapest, Department of 
+                    <p class="date-endpoints">Autumn 2024 - Present</p>
+                    <p>Assistant Professor, Corvinus Univeristy of Budapest, Department of 
+                    Sociology</p>
+                    </div>
+                </div>
+                
+                <div class="flexbox-entry">
+                    <div class="entry">
+                    <p class="date-endpoints">Autumn 2021 - July 2024</p>
+                    <p>Research Assistant Professor, Chinese Univeristy of Hong Kong, Department of 
                     Sociology</p>
                     </div>
                 </div>
                 <div class="flexbox-entry">
                     <div class="entry">
                     <p class="date-endpoints">Autumn 2020 - Autumn 2021</p>
-                    <p>Postdoctoral research Associate, Princeton University, Center on Contemporary China</p>
+                    <p>Postdoctoral Research Associate, Princeton University, Center on Contemporary China</p>
                     </div>
                 </div>
                 <div class="flexbox-entry">
