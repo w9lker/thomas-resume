@@ -81,7 +81,7 @@
                         His research primarily focuses upon how socio-cultural forces and migration policies interact to shape the composition and size of migrant flows. He 
                         examines how policies and organizational changes in both migrant-destination and migrant-origin contexts structure migrant selectivity and inequality in migratory opportunity. 
                         He also draws on empirical research about international migration to critique conventional normative theories of what a fair international 
-                        policy and the impact of acculturation and assimilation on migrant-receiving soiceties.  
+                        policy and the impact of acculturation and assimilation on migrant-destination soiceties.  
                         Finally, he also assesses how media representations of immigrants and other controversial subjects like abortion, racial misgenation,and 
                         gun violence influence attitudes toward these subjects.
                         
