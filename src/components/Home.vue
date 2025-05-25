@@ -108,7 +108,7 @@
                 <div class="flexbox-entry">
                     <div class="entry">
                     <p class="date-endpoints">Autumn 2021 - Present</p>
-                    <p>Research Assistant Professor, the Chinese University of Hong Kong Department of 
+                    <p>Research Assistant Professor, Corvinus Univeristy of Budapest, Department of 
                     Sociology</p>
                     </div>
                 </div>
