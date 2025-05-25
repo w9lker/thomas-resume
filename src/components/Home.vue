@@ -44,7 +44,7 @@
                     <img src="../assets/reserve/IMG_1041_1.jpg" alt="Thomas">
                     <div class="position">
                         <h3>Jacob Richard Thomas(唐龙)</h3>
-                        <h4>Research Assistant Professor</h4>
+                        <h4>Assistant Professor</h4>
                         <h5>Corvinus University of Budapest</h5>
                         <h5>Department of Sociology</h5>
                         <h4>PhD (UCLA)</h4>
