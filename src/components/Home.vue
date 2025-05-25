@@ -90,8 +90,8 @@
                         University of California, Los Angeles, </b>
                         he received <b>M.A in Social Sciences from University of Chicago</b> and <b>B.A. in Interdisciplinary Studies Field Major in Globalization 
                         from University of California, Berkeley where he studied political science, economics, and cultural anthropology.</b></p><br/>
-                        <p>He has published research articles in numerous international journals, including International Journal of Sociology, European Journal of Sociology, International Political Science Review, 
-                            Theory and Society, International Political Science Review, Symbolic Interaction, International Migration Review, and Chinese Political Science Review, among many others. He has finished a book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
+                        <p>He has published research articles in numerous international journals, including <i> International Journal of Sociology, European Journal of Sociology, International Political Science Review, 
+                            Theory and Society, International Political Science Review, Symbolic Interaction, International Migration Review, and Chinese Political Science Review</i>, among many others. He has finished a book manuscript from his dissertation <i>The Denied, the Deterred and the Disenchanted: 
                         Why a Variety of Potential Emigrants Never Immigrated</i>, (Forthcoming with Cambridge University Press in 2025) based on a multi-thousand 
                         person survey he conducted in Mainland China of three distinct types of non-migrants: those denied non-immigrant (temporary) visas,
                         those deterred from applying for visas due to an interaction of socio-cultural forces and government policy, and  those that had planned to 
